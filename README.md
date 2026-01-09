@@ -1,6 +1,6 @@
 # Roguemon Rivals Tournament Series
 
-![Roguemon Rivals Banner](resources/roguemon_rivals_banner.png)
+![Roguemon Rivals Banner](Resources/Winter Invitational Banner.png)
 
 Roguemon Rivals is a competitive format for the Roguemon Pokemon challenge where two players draft Pokemon across 3 types and battle for the title of Pokemon champion. The Winter Invitational is a single elimination tournament consisting of 16 players battling it out across 4 rounds of head-to-head matches. Each round consists of a drafting phase and a running phase which is detailed below. Players will be randomly placed into a bracket and the types of each round will be randomized. For more information on how to play in the tournament, please use the resources below or feel free to message in the Tournament Discord.
 
