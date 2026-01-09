@@ -49,15 +49,15 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 | TBA | QPMarcel | https://www.twitch.tv/qp_marcel | Round 1 - TBD |
 | TBA | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - TBD |
 | TBA | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - TBD |
-| TBA | Predsfan | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | AmazingSpam | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | ShaolinSpunk | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | AitchKay | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | Mason | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | Da-RellGaming | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | Slammer | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | Thee Worme | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - TBD |
+| TBA | AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - TBD |
+| TBA | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - TBD |
+| TBA | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - TBD |
+| TBA | Mason | https://www.twitch.tv/ | Round 1 - TBD |
+| TBA | Da-RellGaming | https://www.twitch.tv/da_rellgaming | Round 1 - TBD |
+| TBA | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 1 - TBD |
+| TBA | Thee Worme | https://www.twitch.tv/thee_worme | Round 1 - TBD |
+| TBA | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - TBD |
 | TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
 | TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
 
