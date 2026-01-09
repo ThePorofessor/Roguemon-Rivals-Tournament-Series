@@ -41,6 +41,27 @@ There are 0 favorites/universal picks available  You can pick any pokemon you
 Once you have selected your pivot you are ready to start running! Normal A2 Roguemon rules apply so please refer to Roguemon.gg for rules clarification or the Roguemon Discord.
 
 ---
+# Participants
+|  | Name | How To Watch | Tournament Status |
+|:---:|---|---|---|
+| TBA | ThePorofessor | https://www.twitch.tv/theporofessor | Round 1 - TBD |
+| TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | QPMarcel | https://www.twitch.tv/qp_marcel | Round 1 - TBD |
+| TBA | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - TBD |
+| TBA | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - TBD |
+| TBA | Predsfan | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | AmazingSpam | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | ShaolinSpunk | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | AitchKay | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | Mason | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | Da-RellGaming | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | Slammer | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | Thee Worme | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+
+---
 
 <details>
 <summary><strong>📁 Resources</strong></summary>
