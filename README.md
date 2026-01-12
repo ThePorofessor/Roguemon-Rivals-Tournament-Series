@@ -108,6 +108,17 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 </details>
 
 ---
+
+## Alphabet Draft (Loser Bracket)
+Since we want all players to have the chance of playing two rounds minimum, we will be hosting a loser bracket after the first round eliminations. This is entirely optional and is open to players not signed up for the tournament (up to 10 players max). An alphabet draft is very similar to the normal Roguemon Rivals experience with the exception of what you are drafting. Rather than selecting specific pokemon, you will be drafting the letters of the alphabet. Any pokemon starting with the letter is runnable! The alphabet draft will consist of 45 Typeless seeds (increased to assist with dead seeds). During the drafting phase players will vote on their top 3 universal letters. The votes will be tallied and the top 5 letters will be drafted as universal letters that any player can use to pivot. Afterwards, players will be randomized and draft in a snake style draft of the remaining letters of the alphabet.
+
+**Please note that if there are no runnable Pokemon (no letters match your draft) it is a dead seed which counts towards your total seeds. We have increased the available seeds to minimize this altering the final scores.**
+
+The rest of the Roguemon Rivals rules apply after the drafting phase. This should be chaotic and fun. Please remember that this is a friendly competition!
+
+
+
+---
 ## Frequently Asked Questions
 <details>
 <summary><strong> Do my opponent and I have to complete the types in the same order? </strong></summary>
