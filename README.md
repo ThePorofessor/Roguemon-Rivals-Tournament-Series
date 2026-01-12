@@ -1,12 +1,17 @@
 # Roguemon Rivals Tournament Series
 
+### [ROUND STRUCTURE](#ROUND-STRUCTURE) | [PIVOTING GUIDELINES](#Pivoting-Guidelines) | [PARTICIPANTS](#Participants) | [ALPHABET DRAFT](#Alphabet-Draft) | [RESOURCES](#Resources) | [FAQ](#FAQ) |
+
+---
+
 ![Roguemon Rivals Banner](Resources/WinterInvitationalBanner.png)
 
 Roguemon Rivals is a competitive format for the Roguemon Pokemon challenge where two players draft Pokemon across 3 types and battle for the title of Pokemon champion. The Winter Invitational is a single elimination tournament consisting of 16 players battling it out across 4 rounds of head-to-head matches. Each round consists of a drafting phase and a running phase which is detailed below. Players will be randomly placed into a bracket and the types of each round will be randomized. For more information on how to play in the tournament, please use the resources below or feel free to message in the Tournament Discord.
 
 ---
 
-# Round Structure
+<h1 align="center">ROUND STRUCTURE</h1>
+
 ### Drafting Phase
 Each round players will draft favorites which they must run and universal picks which both players can run. This can be organized through voice chat or text chat in Discord. In the past Discord DMs have worked very successfully for the drafting phase. The overall process should take about 5 minutes but please note that we have a variety of time zones in this tournament. If you don’t get an immediate response, please give the other player time as they might be busy with work, general life things, and sleep. The player that is bracketed at the top will pick first on type 1 and 3 while the player that is bracketed at the bottom will pick first on type 2. Feel free to use this template to guide your drafting phase:
 Once players have drafted all of their Pokemon, the Running phase begins. This means go play! This will proceed like normal A2 Roguemon with the exception of how you pivot (see below).
@@ -23,7 +28,8 @@ Once players have drafted all of their Pokemon, the Running phase begins. This m
 
 ---
 
-### Pivoting Guidelines
+<h1 align="center">PIVOTING GUIDELINES</h1>
+
 Pivoting is dictated by what you drafted. Please note that there is **no scouting**. Your choices can only come from the lab and the abandoned balls outside the lab. The difficulty of Rivals is created by running your suboptimal favorites rather than choosing the best Pokemon in each seed. If you are lucky your favorite will be the best, but from experience with the format it is unlikely. With that in mind follow these rules:
 
 ### Lab Priorities:
@@ -76,7 +82,7 @@ In this example, the player picks up the 5 abandoned balls immediately to see th
 Once you have selected your pivot you are ready to start running! Normal A2 Roguemon rules apply so please refer to [Roguemon.gg](https://github.com/Crozwords/Roguemon) for rules clarification or the [Roguemon Discord](https://discord.gg/YPhF5D3P).
 
 ---
-# Participants
+<h1 align="center">PARTICIPANTS</h1>
 |  | Name | How To Watch | Tournament Status |
 |:---:|---|---|---|
 | TBA | ThePorofessor | https://www.twitch.tv/theporofessor | Round 1 - TBD |
@@ -98,6 +104,16 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 ---
 
+<h1 align="center">ALPHABET DRAFT</h1>
+Since we want all players to have the chance of playing two rounds minimum, we will be hosting a loser bracket after the first round eliminations. This is entirely optional and is open to players not signed up for the tournament (up to 10 players max). An alphabet draft is very similar to the normal Roguemon Rivals experience with the exception of what you are drafting. Rather than selecting specific pokemon, you will be drafting the letters of the alphabet. Any pokemon starting with the letter is runnable! The alphabet draft will consist of 45 Typeless seeds (increased to assist with dead seeds). During the drafting phase players will vote on their top 3 universal letters. The votes will be tallied and the top 5 letters will be drafted as universal letters that any player can use to pivot. Afterwards, players will be randomized and draft in a snake style draft of the remaining letters of the alphabet.
+
+**Please note that if there are no runnable Pokemon (no letters match your draft) it is a dead seed which counts towards your total seeds. We have increased the available seeds to minimize this altering the final scores.**
+
+The rest of the Roguemon Rivals rules apply after the drafting phase. This should be chaotic and fun. Please remember that this is a friendly competition!
+
+---
+<h1 align="center">RESOURCES</h1>
+
 <details>
 <summary><strong>📁 Resources</strong></summary>
 
@@ -106,17 +122,6 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 - :camera: [Pokemon Sprites (Sugimori and Global Artwork)](https://drive.google.com/drive/folders/1QnI2yFlTVyjq3geyzwmnrr3_cxNlNjzI?usp=sharing)
 
 </details>
-
----
-
-## Alphabet Draft (Loser Bracket)
-Since we want all players to have the chance of playing two rounds minimum, we will be hosting a loser bracket after the first round eliminations. This is entirely optional and is open to players not signed up for the tournament (up to 10 players max). An alphabet draft is very similar to the normal Roguemon Rivals experience with the exception of what you are drafting. Rather than selecting specific pokemon, you will be drafting the letters of the alphabet. Any pokemon starting with the letter is runnable! The alphabet draft will consist of 45 Typeless seeds (increased to assist with dead seeds). During the drafting phase players will vote on their top 3 universal letters. The votes will be tallied and the top 5 letters will be drafted as universal letters that any player can use to pivot. Afterwards, players will be randomized and draft in a snake style draft of the remaining letters of the alphabet.
-
-**Please note that if there are no runnable Pokemon (no letters match your draft) it is a dead seed which counts towards your total seeds. We have increased the available seeds to minimize this altering the final scores.**
-
-The rest of the Roguemon Rivals rules apply after the drafting phase. This should be chaotic and fun. Please remember that this is a friendly competition!
-
-
 
 ---
 ## Frequently Asked Questions
