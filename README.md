@@ -125,7 +125,9 @@ The rest of the Roguemon Rivals rules apply after the drafting phase. This shoul
 </details>
 
 ---
-## Frequently Asked Questions
+
+<h1 align="center">FREQUENTLY ASKED QUESTIONS</h1>
+
 <details>
 <summary><strong> Do my opponent and I have to complete the types in the same order? </strong></summary>
 Absolutely not! You may play any of the three types selected for a round within the 2-week period. It is actually advised to mix and match based on your opponent’s personal best (PB). The goal is achieving the farthest run, not necessarily win it the seed. If you are ahead of your opponent, maybe hold off on the other seeds just in case they surpass you.
