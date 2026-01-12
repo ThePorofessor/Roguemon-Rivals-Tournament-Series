@@ -86,14 +86,14 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 |  | Name | How To Watch | Tournament Status |
 |:---:|---|---|---|
-| TBA | ThePorofessor | https://www.twitch.tv/theporofessor | Round 1 - TBD |
-| TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | QPMarcel | https://www.twitch.tv/qp_marcel | Round 1 - TBD |
-| TBA | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - TBD |
-| TBA | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - TBD |
-| TBA | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - TBD |
+| ![PoroLogo](Resources/PorofessorLogo.png) | ThePorofessor | https://www.twitch.tv/theporofessor | Round 1 - TBD |
+| ![ZogaLogo](Resources/ZogaOakLogo.png) | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| ![MarcelLogo](Resources/QPMarcelLogo.png) | QPMarcel | https://www.twitch.tv/qp_marcel | Round 1 - TBD |
+| ![MuneLogo](Resources/RedMuneLogo.png) | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - TBD |
+| ![PixelLogo](Resources/PixelMasterLogo.png) | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - TBD |
+| ![PredsLogo](Resources/PredsFanLogo.png) | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - TBD |
 | TBA | AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - TBD |
-| TBA | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - TBD |
+| ![SinnLogo](Resources/ShaolinSpunkLogo.png) | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - TBD |
 | TBA | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - TBD |
 | TBA | Mason | https://www.twitch.tv/mason_smw | Round 1 - TBD |
 | TBA | Da-RellGaming | https://www.twitch.tv/da_rellgaming | Round 1 - TBD |
