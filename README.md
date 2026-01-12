@@ -26,19 +26,51 @@ Pivoting is dictated by what you drafted. Please note that there is no scouting.
 
 ### Lab Priorities:
 1.	You must select a drafted pokemon (Universal or Your Favorite)
+
+<details>
+<summary><strong>Example</strong></summary>
+
+  ![Case 1 Example](Resources/Lab-Example-Case-1.PNG)
+
+In this example, there is a favorite (Pokemon you drafted or universal pick), a nemesis (Pokemon your opponent drafted), and an undrafted pick.
+
+</details>
+
 2.	If you don’t have a favorite, you must fight your opponent’s favorite
+
+<details>
+<summary><strong>Example</strong></summary>
+
+  ![Case 2 Example](Resources/Lab-Example-Case-2.PNG)
+
+</details>
+
 3.	If there are no favorites for either player, you have free choice.
 
-### Abandoned Balls:
-After beating the Lab Rival, you must pick up the 5 abandoned balls outside the lab. These 6 pokemon are your potential pivots. Here are a few cases:
-#### Case 1:
-You only have 1 favorite/universal pick available  You must run that pokemon
-#### Case 2:
-You have multiple favorites/universal picks available  You may choose your pokemon from the available favorite/universal picks.
-#### Case 3:
-There are 0 favorites/universal picks available  You can pick any pokemon you want that is not an opponent’s favorite Pokemon.
+<details>
+<summary><strong>Example</strong></summary>
+  
+![Case 3 Example](Resources/Lab-Example-Case-3.PNG)
 
-Once you have selected your pivot you are ready to start running! Normal A2 Roguemon rules apply so please refer to Roguemon.gg for rules clarification or the Roguemon Discord.
+</details>
+
+### Abandoned Balls:
+After beating the Lab Rival, you must pick up the 5 abandoned balls outside the lab. These 6 pokemon are your potential pivots. These pivots follow the same rules as the lab pivot. Therefore, you must run a favorite that you drafted or a universal pick. If no favorites are available, then you are allowed free choice of any non-nemesis Pokemon (drafted by your opponent).
+
+<details>
+<summary><strong>Example</strong></summary>
+  
+![Abandoned Balls Example 1](Resources/Abandoned-Balls-Part-1.PNG)
+
+In this example, the player picks up the 5 abandoned balls immediately to see the potential pivots. After checking the balls, the player determines the are able to run **Jangmo-O (lvl 7)**, **Jangmo-O (lvl 8)**, **Gible**, and **Bagon**. This is because **Jangmo-O** was a universal pick that any player can run, while **Gible** and **Bagon** were specifically drafted by the player. On the other hand, **Noibat** is not runnable because drafted pokemon take priority of undrafted pokemon. Additionally, **Frigibax** is a nemesis (opponent drafted pokemon) and is unrunnable.
+
+![Abandoned Balls Example 2](Resources/Abandoned-Balls-Part-2.PNG)
+
+</details>
+
+**Please note that these pivots are most likely going to be sub-optimal. This is the challenge of Rivals, so make sure your drafting phase is setting you up for success!**
+
+Once you have selected your pivot you are ready to start running! Normal A2 Roguemon rules apply so please refer to [Roguemon.gg](https://github.com/Crozwords/Roguemon) for rules clarification or the [Roguemon Discord](https://discord.gg/YPhF5D3P).
 
 ---
 # Participants
@@ -58,8 +90,8 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 | TBA | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 1 - TBD |
 | TBA | Thee Worme | https://www.twitch.tv/thee_worme | Round 1 - TBD |
 | TBA | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - TBD |
-| TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| TBA | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+| TBA | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 1 - TBD |
+| TBA | TBA | TBA | Round 1 - TBD |
 
 ---
 
@@ -68,6 +100,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 - 📝 [Draft Template Sheet](https://docs.google.com/spreadsheets/d/1G84KmMYkxTKnaFUwMx1JH2rcPc4vGFONExM2cCNFI4g/edit?usp=sharing)
 - 📈 [Scoreboard Template (Make a Copy)](https://docs.google.com/spreadsheets/d/1AbWa4WPAQiyzlvI2I5l_m0M3YqE-ZPL32wDu0jRsoHI/edit?gid=0#gid=0)
+- :camera: 
 
 </details>
 
