@@ -86,22 +86,22 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 |  | Name | How To Watch | Tournament Status |
 |:---:|---|---|---|
-| ![PoroLogo](Resources/PorofessorLogo.png) | ThePorofessor | https://www.twitch.tv/theporofessor | Round 1 - TBD |
-| ![ZogaLogo](Resources/ZogaOakLogo.png) | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-| ![MarcelLogo](Resources/QPMarcelLogo.png) | QPMarcel | https://www.twitch.tv/qp_marcel | Round 1 - TBD |
-| ![MuneLogo](Resources/RedMuneLogo.png) | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - TBD |
-| ![PixelLogo](Resources/PixelMasterLogo.png) | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - TBD |
-| ![PredsLogo](Resources/PredsfanLogo.png) | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - TBD |
-| TBA | AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - TBD |
-| ![SinnLogo](Resources/ShaolinSpunkLogo.png) | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - TBD |
-| TBA | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - TBD |
-| TBA | Mason | https://www.twitch.tv/mason_smw | Round 1 - TBD |
-| TBA | Da-RellGaming | https://www.twitch.tv/da_rellgaming | Round 1 - TBD |
-| TBA | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 1 - TBD |
-| TBA | Thee Worme | https://www.twitch.tv/thee_worme | Round 1 - TBD |
-| TBA | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - TBD |
-| TBA | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 1 - TBD |
-| TBA | DaddyoftheCorn | https://www.twitch.tv/daddyofthecorn | Round 1 - TBD |
+|  | ThePorofessor | https://www.twitch.tv/theporofessor | Round 1 - TBD |
+|  | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
+|  | QPMarcel | https://www.twitch.tv/qp_marcel | Round 1 - TBD |
+|  | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - TBD |
+|  | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - TBD |
+|  | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - TBD |
+|  | AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - TBD |
+|  | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - TBD |
+|  | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - TBD |
+|  | Mason | https://www.twitch.tv/mason_smw | Round 1 - TBD |
+|  | Da-RellGaming | https://www.twitch.tv/da_rellgaming | Round 1 - TBD |
+|  | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 1 - TBD |
+|  | Thee Worme | https://www.twitch.tv/thee_worme | Round 1 - TBD |
+|  | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - TBD |
+|  | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 1 - TBD |
+|  | DaddyoftheCorn | https://www.twitch.tv/daddyofthecorn | Round 1 - TBD |
 
 ---
 
