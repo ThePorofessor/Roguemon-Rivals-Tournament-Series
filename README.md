@@ -95,13 +95,13 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 | TBA | AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - TBD |
 | TBA | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - TBD |
 | TBA | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - TBD |
-| TBA | Mason | https://www.twitch.tv/ | Round 1 - TBD |
+| TBA | Mason | https://www.twitch.tv/mason_smw | Round 1 - TBD |
 | TBA | Da-RellGaming | https://www.twitch.tv/da_rellgaming | Round 1 - TBD |
 | TBA | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 1 - TBD |
 | TBA | Thee Worme | https://www.twitch.tv/thee_worme | Round 1 - TBD |
 | TBA | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - TBD |
 | TBA | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 1 - TBD |
-| TBA | TBA | TBA | Round 1 - TBD |
+| TBA | DaddyoftheCorn | https://www.twitch.tv/daddyofthecorn | Round 1 - TBD |
 
 ---
 
