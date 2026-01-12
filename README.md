@@ -11,6 +11,8 @@ Roguemon Rivals is a competitive format for the Roguemon Pokemon challenge where
 Each round players will draft favorites which they must run and universal picks which both players can run. This can be organized through voice chat or text chat in Discord. In the past Discord DMs have worked very successfully for the drafting phase. The overall process should take about 5 minutes but please note that we have a variety of time zones in this tournament. If you don’t get an immediate response, please give the other player time as they might be busy with work, general life things, and sleep. The player that is bracketed at the top will pick first on type 1 and 3 while the player that is bracketed at the bottom will pick first on type 2. Feel free to use this template to guide your drafting phase:
 Once players have drafted all of their Pokemon, the Running phase begins. This means go play! This will proceed like normal A2 Roguemon with the exception of how you pivot (see below).
 
+### <p align="center">Drafting Phase Reference</p>
+
 ![Drafting Order Reference](Resources/DraftingOrder.png)
 
 **Pokemon Rankings by Zoga: (Good for pivot data opinions may vary)**  
@@ -22,7 +24,7 @@ Once players have drafted all of their Pokemon, the Running phase begins. This m
 ---
 
 ### Pivoting Guidelines
-Pivoting is dictated by what you drafted. Please note that there is no scouting. Your choices can only come from the lab and the abandoned balls outside the lab. The difficulty of Rivals is created by running your suboptimal favorites rather than choosing the best Pokemon in each seed. If you are lucky your favorite will be the best, but from experience with the format it is unlikely. With that in mind follow these rules:
+Pivoting is dictated by what you drafted. Please note that there is **no scouting**. Your choices can only come from the lab and the abandoned balls outside the lab. The difficulty of Rivals is created by running your suboptimal favorites rather than choosing the best Pokemon in each seed. If you are lucky your favorite will be the best, but from experience with the format it is unlikely. With that in mind follow these rules:
 
 ### Lab Priorities:
 1.	You must select a drafted pokemon (Universal or Your Favorite)
@@ -53,6 +55,7 @@ In this example, there is a favorite (Pokemon you drafted or universal pick), a 
 ![Case 3 Example](Resources/Lab-Example-Case-3.PNG)
 
 </details>
+
 
 ### Abandoned Balls:
 After beating the Lab Rival, you must pick up the 5 abandoned balls outside the lab. These 6 pokemon are your potential pivots. These pivots follow the same rules as the lab pivot. Therefore, you must run a favorite that you drafted or a universal pick. If no favorites are available, then you are allowed free choice of any non-nemesis Pokemon (drafted by your opponent).
@@ -184,7 +187,7 @@ Yes! There will be an optional lower bracket where all round 1 eliminated player
 ---
 
 ## Credits
-Tournament Series Created by: ThePorofessor and ZogaOak
+Tournament Series Created by: [ThePorofessor](https://www.twitch.tv/theporofessor) and [ZogaOak](https://www.twitch.tv/zogaoak)
 
 Roguemon Rivals Format Created by: [iCrucialx](https://twitch.tv/icrucialx) and [Ceedsy](https://twitch.tv/ceedsy) 
 
