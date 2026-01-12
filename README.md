@@ -1,6 +1,6 @@
 # Roguemon Rivals Tournament Series
 
-### [ROUND STRUCTURE](#ROUND-STRUCTURE) | [PIVOTING GUIDELINES](#Pivoting-Guidelines) | [PARTICIPANTS](#Participants) | [ALPHABET DRAFT](#Alphabet-Draft) | [RESOURCES](#Resources) | [FAQ](#FAQ) |
+### [ROUND STRUCTURE](#ROUND-STRUCTURE) | [PIVOTING GUIDELINES](#Pivoting-Guidelines) | [PARTICIPANTS](#Participants) | [ALPHABET DRAFT](#Alphabet-Draft) | [RESOURCES](#Resources) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
 
 ---
 
@@ -83,6 +83,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 ---
 <h1 align="center">PARTICIPANTS</h1>
+
 |  | Name | How To Watch | Tournament Status |
 |:---:|---|---|---|
 | TBA | ThePorofessor | https://www.twitch.tv/theporofessor | Round 1 - TBD |
