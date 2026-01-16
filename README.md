@@ -216,6 +216,8 @@ Tournament Series Created by: [ThePorofessor](https://www.twitch.tv/theporofesso
 
 Roguemon Rivals Format Created by: [iCrucialx](https://twitch.tv/icrucialx) and [Ceedsy](https://twitch.tv/ceedsy) 
 
+Draft Tracker Created by: [iAmSlammer](https://www.twitch.tv/iAmSlammer)
+
 Inspired by: [Roguemon by Crozwords](https://github.com/Crozwords/Roguemon)
 
 <p align="center"><i>Roguemon Rivals is a fan-made competition format and not affiliated with Nintendo, Game Freak, or The Pokémon Company.</i></p>
