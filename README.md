@@ -115,12 +115,12 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|BasculinW Mudkip Oshawott Quaxley |Magikarp Panpour Shellder Slowpoke |Froakie Piplup Pyukumuku Squirtle |UceyChimchar|
+|ZogaOak|BasculinW Mudkip ![Oshowatt](Resources/Pivots/Oshowatt.png) Quaxley |Magikarp ![Panpour](Resources/Pivots/Panpour.png) Shellder Slowpoke |![Froakie](Resources/Pivots/Froakie.png) ![Piplup](Resources/Pivots/Piplup.png) Pyukumuku Squirtle |UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|Mudkip Piplup Surskit Wailmer |BasculinW Magikarp Panpour Slowpoke| Popplio Squirtle Tentacool Wooper |Predsfan|
+|Porofessor|Mudkip ![Piplup](Resources/Pivots/Piplup.png) Surskit Wailmer |BasculinW Magikarp ![Panpour](Resources/Pivots/Panpour.png) Slowpoke| Popplio Squirtle Tentacool Wooper |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
@@ -132,12 +132,12 @@ WORK IN PROGRESS!
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|Charmander Fuecoco Houndour | GrowlitheH Growlithe |Chimchar Cyndaquil Litleo Torchic |UceyChimchar|
+|ZogaOak|Charmander Fuecoco Houndour | GrowlitheH Growlithe |![Chimchar](Resources/Pivots/Chimchar.png) Cyndaquil Litleo Torchic |UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|Fennekin Litleo Pansear Torchic |Growlithe Larvesta |Charcadet Chimchar Houndour Litten |Predsfan|
+|Porofessor|![Fennekin](Resources/Pivots/Fennekin.png) Litleo ![Pansear](Resources/Pivots/Pansear.png) Torchic |Growlithe ![Larvesta](Resources/Pivots/Larvesta.png) |Charcadet ![Chimchar](Resources/Pivots/Chimchar.png) Houndour Litten |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
@@ -154,7 +154,7 @@ WORK IN PROGRESS!
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|Applin Bagon Tyrunt |Gible Jangmo-O |Axew Dratini Dreepy |Predsfan|
+|Porofessor|Applin Bagon Tyrunt |![Gible](Resources/Pivots/Gible.png) Jangmo-O |Axew Dratini Dreepy |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
