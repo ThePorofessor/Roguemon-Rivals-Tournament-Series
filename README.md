@@ -115,12 +115,12 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|![BasculinW](Resources/Pivots/BasculinW.png) ![Mudkip](Resources/Pivots/Mudkip.png) ![Oshowatt](Resources/Pivots/Oshowatt.png) ![Quaxley](Resources/Pivots/Quaxley.png) |![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Shellder](Resources/Pivots/Shellder.png) ![Slowpoke](Resources/Pivots/Slowpoke.png) |![Froakie](Resources/Pivots/Froakie.png) ![Piplup](Resources/Pivots/Piplup.png) ![Pyukumuku](Resources/Pivots/Pyukumuku.png) ![Squirtle](Resources/Pivots/Squirtle.png) |UceyChimchar|
+|ZogaOak|<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Mudkip](Resources/Pivots/Mudkip.png) ![Oshowatt](Resources/Pivots/Oshowatt.png) ![Quaxley](Resources/Pivots/Quaxley.png)</p> |<p align="center">![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Shellder](Resources/Pivots/Shellder.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)</p> |<p align="center">![Froakie](Resources/Pivots/Froakie.png) ![Piplup](Resources/Pivots/Piplup.png) ![Pyukumuku](Resources/Pivots/Pyukumuku.png) ![Squirtle](Resources/Pivots/Squirtle.png)</p> |UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|![Mudkip](Resources/Pivots/Mudkip.png) ![Piplup](Resources/Pivots/Piplup.png) ![Surskit](Resources/Pivots/Surskit.png) ![Wailmer](Resources/Pivots/Wailmer.png) |![BasculinW](Resources/Pivots/BasculinW.png) ![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)| ![Popplio](Resources/Pivots/Popplio.png) ![Squirtle](Resources/Pivots/Squirtle.png) ![Tentacool](Resources/Pivots/Tentacool.png) ![Wooper](Resources/Pivots/Wooper.png) |Predsfan|
+|Porofessor|<p align="center">![Mudkip](Resources/Pivots/Mudkip.png) ![Piplup](Resources/Pivots/Piplup.png) ![Surskit](Resources/Pivots/Surskit.png) ![Wailmer](Resources/Pivots/Wailmer.png) |<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)|<p align="center">![Popplio](Resources/Pivots/Popplio.png) ![Squirtle](Resources/Pivots/Squirtle.png) ![Tentacool](Resources/Pivots/Tentacool.png) ![Wooper](Resources/Pivots/Wooper.png) |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
@@ -132,12 +132,12 @@ WORK IN PROGRESS!
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|![Charmander](Resources/Pivots/Charmander.png) ![Fuecoco](Resources/Pivots/Fuecoco.png) ![Houndour](Resources/Pivots/Houndour.png) | ![GrowlitheH](Resources/Pivots/GrowlitheH.png) ![Growlithe](Resources/Pivots/Growlithe.png) |![Chimchar](Resources/Pivots/Chimchar.png) ![Cyndaquil](Resources/Pivots/Cyndaquil.png) ![Litleo](Resources/Pivots/Litleo.png) ![Torchic](Resources/Pivots/Torchic.png) |UceyChimchar|
+|ZogaOak|<p align="center">![Charmander](Resources/Pivots/Charmander.png) ![Fennekin](Resources/Pivots/Fennekin.png) ![Fuecoco](Resources/Pivots/Fuecoco.png) ![Houndour](Resources/Pivots/Houndour.png)</p> |<p align="center">![GrowlitheH](Resources/Pivots/GrowlitheH.png) ![Growlithe](Resources/Pivots/Growlithe.png)</p> |<p align="center">![Chimchar](Resources/Pivots/Chimchar.png) ![Cyndaquil](Resources/Pivots/Cyndaquil.png) ![Litleo](Resources/Pivots/Litleo.png) ![Torchic](Resources/Pivots/Torchic.png)</p> |UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|![Fennekin](Resources/Pivots/Fennekin.png) ![Litleo](Resources/Pivots/Litleo.png) ![Pansear](Resources/Pivots/Pansear.png) ![Torchic](Resources/Pivots/Torchic.png) |![Growlithe](Resources/Pivots/Growlithe.png) ![Larvesta](Resources/Pivots/Larvesta.png) |![Charcadet](Resources/Pivots/Charcadet.png) ![Chimchar](Resources/Pivots/Chimchar.png) ![Houndour](Resources/Pivots/Houndour.png) ![Litten](Resources/Pivots/Litten.png) |Predsfan|
+|Porofessor|<p align="center">![Fennekin](Resources/Pivots/Fennekin.png) ![Litleo](Resources/Pivots/Litleo.png) ![Pansear](Resources/Pivots/Pansear.png) ![Torchic](Resources/Pivots/Torchic.png)</p> |<p align="center">![Growlithe](Resources/Pivots/Growlithe.png) ![Larvesta](Resources/Pivots/Larvesta.png)</p> |<p align="center">![Charcadet](Resources/Pivots/Charcadet.png) ![Chimchar](Resources/Pivots/Chimchar.png) ![Houndour](Resources/Pivots/Houndour.png) ![Litten](Resources/Pivots/Litten.png)</p> |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
@@ -149,12 +149,12 @@ WORK IN PROGRESS!
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|![Dratini](Resources/Pivots/Dratini.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png) ![Tyrunt](Resources/Pivots/Tyrunt.png) |![Axew](Resources/Pivots/Axew.png) ![Dreepy](Resources/Pivots/Dreepy.png)|![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Gible](Resources/Pivots/Gible.png)|UceyChimchar|
+|ZogaOak|<p align="center">![Dratini](Resources/Pivots/Dratini.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png) ![Tyrunt](Resources/Pivots/Tyrunt.png)</p> |<p align="center">![Axew](Resources/Pivots/Axew.png) ![Dreepy](Resources/Pivots/Dreepy.png)</p>|<p align="center">![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Gible](Resources/Pivots/Gible.png)</p>|UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Tyrunt](Resources/Pivots/Tyrunt.png) |![Gible](Resources/Pivots/Gible.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png) |![Axew](Resources/Pivots/Axew.png) ![Dratini](Resources/Pivots/Dratini.png) ![Dreepy](Resources/Pivots/Dreepy.png) |Predsfan|
+|Porofessor|<p align="center">![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Tyrunt](Resources/Pivots/Tyrunt.png)</p> |<p align="center">![Gible](Resources/Pivots/Gible.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png)</p> |<p align="center">![Axew](Resources/Pivots/Axew.png) ![Dratini](Resources/Pivots/Dratini.png) ![Dreepy](Resources/Pivots/Dreepy.png)</p> |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
