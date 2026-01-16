@@ -120,7 +120,7 @@ WORK IN PROGRESS!
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|![Mudkip](Resources/Pivots/Mudkip.png) ![Piplup](Resources/Pivots/Piplup.png) ![Surskit](Resources/Pivots/Surskit.png) Wailmer |![BasculinW](Resources/Pivots/BasculinW.png) ![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)| ![Popplio](Resources/Pivots/Popplio.png) ![Squirtle](Resources/Pivots/Squirtle.png) ![Tentacool](Resources/Pivots/Tentacool.png) ![Wooper](Resources/Pivots/Wooper.png) |Predsfan|
+|Porofessor|![Mudkip](Resources/Pivots/Mudkip.png) ![Piplup](Resources/Pivots/Piplup.png) ![Surskit](Resources/Pivots/Surskit.png) ![Wailmer](Resources/Pivots/Wailmer.png) |![BasculinW](Resources/Pivots/BasculinW.png) ![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)| ![Popplio](Resources/Pivots/Popplio.png) ![Squirtle](Resources/Pivots/Squirtle.png) ![Tentacool](Resources/Pivots/Tentacool.png) ![Wooper](Resources/Pivots/Wooper.png) |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
