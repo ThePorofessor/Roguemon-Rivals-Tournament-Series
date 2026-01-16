@@ -154,7 +154,7 @@ WORK IN PROGRESS!
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|![Applin](Resources/Pivots/Applin.png)|---|---|Predsfan|
+|Porofessor|![Applin](Resources/Pivots/Applin.png) |---|![Axew](Resources/Pivots/Axew.png)|Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
