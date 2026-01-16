@@ -115,12 +115,12 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|BasculinW Mudkip ![Oshowatt](Resources/Pivots/Oshowatt.png) Quaxley |Magikarp ![Panpour](Resources/Pivots/Panpour.png) Shellder Slowpoke |![Froakie](Resources/Pivots/Froakie.png) ![Piplup](Resources/Pivots/Piplup.png) Pyukumuku Squirtle |UceyChimchar|
+|ZogaOak|![BasculinW](Resources/Pivots/BasculinW.png) ![Mudkip](Resources/Pivots/Mudkip.png) ![Oshowatt](Resources/Pivots/Oshowatt.png) ![Quaxley](Resources/Pivots/Quaxley.png) |![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Shellder](Resources/Pivots/Shellder.png) ![Slowpoke](Resources/Pivots/Slowpoke.png) |![Froakie](Resources/Pivots/Froakie.png) ![Piplup](Resources/Pivots/Piplup.png) ![Pyukumuku](Resources/Pivots/Pyukumuku.png) ![Squirtle](Resources/Pivots/Squirtle.png) |UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|Mudkip ![Piplup](Resources/Pivots/Piplup.png) Surskit Wailmer |BasculinW Magikarp ![Panpour](Resources/Pivots/Panpour.png) Slowpoke| Popplio Squirtle Tentacool Wooper |Predsfan|
+|Porofessor|![Mudkip](Resources/Pivots/Mudkip.png) ![Piplup](Resources/Pivots/Piplup.png) ![Surskit](Resources/Pivots/Surskit.png) Wailmer |![BasculinW](Resources/Pivots/BasculinW.png) ![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)| ![Popplio](Resources/Pivots/Popplio.png) ![Squirtle](Resources/Pivots/Squirtle.png) ![Tentacool](Resources/Pivots/Tentacool.png) ![Wooper](Resources/Pivots/Wooper.png) |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
