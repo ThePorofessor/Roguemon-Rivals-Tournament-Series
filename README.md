@@ -119,9 +119,9 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|<p align="center">![Mudkip](Resources/Pivots/Mudkip.png) ![Piplup](Resources/Pivots/Piplup.png) ![Surskit](Resources/Pivots/Surskit.png) ![Wailmer](Resources/Pivots/Wailmer.png) |<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)|<p align="center">![Popplio](Resources/Pivots/Popplio.png) ![Squirtle](Resources/Pivots/Squirtle.png) ![Tentacool](Resources/Pivots/Tentacool.png) ![Wooper](Resources/Pivots/Wooper.png) |Predsfan|
+|Porofessor|<p align="center">![Mudkip](Resources/Pivots/Mudkip.png) ![Piplup](Resources/Pivots/Piplup.png) ![Surskit](Resources/Pivots/Surskit.png) ![Wailmer](Resources/Pivots/Wailmer.png)</p> |<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)</p>|<p align="center">![Popplio](Resources/Pivots/Popplio.png) ![Squirtle](Resources/Pivots/Squirtle.png) ![Tentacool](Resources/Pivots/Tentacool.png) ![Wooper](Resources/Pivots/Wooper.png)</p> |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
-|ShaolinSpunk|---|---|---|Finnifin747|
+|ShaolinSpunk|<p align="center">![Mudkip](Resources/Pivots/Mudkip.png) ![BasculinW](Resources/Pivots/BasculinW.png) ![Corsola](Resources/Pivots/Corsola.png) ![Pyukumuku](Resources/Pivots/Pyukumuku.png)</p> |<p align="center">![Wiglett](Resources/Pivots/Wiglett.png) ![Squirtle](Resources/Pivots/Squirtle.png) ![Feebas](Resources/Pivots/Feebas.png) ![Finneon](Resources/Pivots/Finneon.png)</p>|<p align="center">![Popplio](Resources/Pivots/Popplio.png)  ![Piplup](Resources/Pivots/Piplup.png) ![Wailmer](Resources/Pivots/Wailmer.png) ![Oshowatt](Resources/Pivots/Oshowatt.png)</p>|Finnifin747|
 
 </details>
 
