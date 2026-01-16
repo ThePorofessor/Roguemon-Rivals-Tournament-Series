@@ -109,6 +109,57 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 ![Round 1 Bracket](Resources/Winter-Tournie-Bracket-Round-1.png)
 
+<details>
+<summary><strong>Round 1 Drafts (Water)</strong></summary>
+  
+WORK IN PROGRESS!
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|---|---|---|UceyChimchar|
+|Da-RellGaming|---|---|---|AmazingSpam|
+|QPMarcel|---|---|---|Redmune|
+|Thee_Worme|---|---|---|AitchKay720|
+|iAmSlammer|---|---|---|PixelMaster|
+|Porofessor|---|---|---|Predsfan|
+|DaddyoftheCorn|---|---|---|Mason_SMW|
+|ShaolinSpunk|---|---|---|Finnifin747|
+
+</details>
+
+<details>
+<summary><strong>Round 1 Drafts (Fire)</strong></summary>
+  
+WORK IN PROGRESS!
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|---|---|---|UceyChimchar|
+|Da-RellGaming|---|---|---|AmazingSpam|
+|QPMarcel|---|---|---|Redmune|
+|Thee_Worme|---|---|---|AitchKay720|
+|iAmSlammer|---|---|---|PixelMaster|
+|Porofessor|---|---|---|Predsfan|
+|DaddyoftheCorn|---|---|---|Mason_SMW|
+|ShaolinSpunk|---|---|---|Finnifin747|
+
+</details>
+
+<details>
+<summary><strong>Round 1 Drafts (Dragon)</strong></summary>
+  
+WORK IN PROGRESS!
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|---|---|---|UceyChimchar|
+|Da-RellGaming|---|---|---|AmazingSpam|
+|QPMarcel|---|---|---|Redmune|
+|Thee_Worme|---|---|---|AitchKay720|
+|iAmSlammer|---|---|---|PixelMaster|
+|Porofessor|---|---|---|Predsfan|
+|DaddyoftheCorn|---|---|---|Mason_SMW|
+|ShaolinSpunk|---|---|---|Finnifin747|
+
+</details>
+
 ---
 
 <h1 align="center">ALPHABET DRAFT</h1>
