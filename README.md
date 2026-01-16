@@ -120,7 +120,7 @@ WORK IN PROGRESS!
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|---|---|---|Predsfan|
+|Porofessor|![Applin](Resources/Pivots/Applin.png)|---|---|Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
