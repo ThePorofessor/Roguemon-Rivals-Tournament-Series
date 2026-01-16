@@ -166,6 +166,41 @@ Since we want all players to have the chance of playing two rounds minimum, we w
 
 The rest of the Roguemon Rivals rules apply after the drafting phase. This should be chaotic and fun. Please remember that this is a friendly competition!
 
+<details>
+<summary><strong>Letter Statistics (Amount of Pokemon)</strong></summary>
+Please note that for these stats Pokemon that have different unique forms (Burmy, Pumpkaboo, etc.) are only counted once. Additionally, everything was calculated through ChatGPT so there might be errors.
+  
+| Letter | Number of Pokemon | Average BST | Lowest BST| Highest BST |
+|:---:|---|---|---|---|
+| A | 10 | 316.80 | 190 (Azurill) | 401 (Archen) |
+| B | 21 | 287.95 | 190 (Blipbug) | 460 (BasculinW) |
+| C | 32 | 312.88 | 195 (Caterpie) | 410 (Corsola/CorsolaG) |
+| D | 19 | 323.42 | 265 (Diglett/DiglettA) | 415 (Dunsparce) |
+| E | 7 | 326.14 | 288 (Ekans) | 360 (Elekid) |
+| F | 17 | 313.41 | 200 (Feebas) | 377 (Farfetch'd/Farfetch'dG) |
+| G | 23 | 346.82 | 290 (Gothita/Greavard) | 455 (Giraffarig) |
+| H | 9 | 285.11 | 220 (Happiny) | 330 (Hippopotas/Houndour) |
+| I | 3 | 254.33 | 210 (Igglybuff) | 288 (Inkay) |
+| J | 2 | 309.50 | 300 (Jangmo-O) | 319 (Joltik) |
+| K | 7 | 316.29 | 194 (Kricketot) | 385 (Kubfu) |
+| L | 12 | 325.67 | 220 (Lotad) | 385 (Lickitung) |
+| M | 28 | 317.03 | 200 (Magikarp) | 435 (Misdreavus) |
+| N | 8 | 280.75 | 210 (Nymble) | 375 (Nosepass) |
+| O | 4 | 342.00 | 308 (Oshawott) | 385 (Onix) |
+| P | 32 | 318.53 | 205 (Pichu) | 420 (Poipole) |
+| Q | 3 | 396.70 | 310 (Quaxly) | 396.7 (Qwilfish/Hisuian Qwilfish) |
+| R | 13 | 280.75 | 198 (Ralts) | 350 (Rufflet) |
+| S | 63 | 303.44 | 180 (Sunkern) | 465 (Stantler) |
+| T | 24 | 304.50 | 210 (Tyrogue) | 435 (Tangela) |
+| U | 0 | 0 | 0 | 0 |
+| V | 9 | 310.90 | 260 (Venipede) | 370 (Vullaby) |
+| W | 14 | 250.20 | 175 (Wishiwashi) | 400 (Wailmer) |
+| X | 0 | 0 | 0 | 0 |
+| Y | 5 | 303.80 | 253 (Yungoos) | 390 (Yanma) |
+| Z | 5 | 277.00 | 240 (Zigzagoon/ZigzagoonG) | 460 (Zorua/ZoruaH) |
+</details>
+
+
 ---
 <h1 align="center">RESOURCES</h1>
 
