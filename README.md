@@ -132,12 +132,12 @@ WORK IN PROGRESS!
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|Charmander Fuecoco Houndour | GrowlitheH Growlithe |![Chimchar](Resources/Pivots/Chimchar.png) Cyndaquil Litleo Torchic |UceyChimchar|
+|ZogaOak|![Charmander](Resources/Pivots/Charmander.png) ![Fuecoco](Resources/Pivots/Fuecoco.png) ![Houndour](Resources/Pivots/Houndour.png) | ![GrowlitheH](Resources/Pivots/GrowlitheH.png) ![Growlithe](Resources/Pivots/Growlithe.png) |![Chimchar](Resources/Pivots/Chimchar.png) ![Cyndaquil](Resources/Pivots/Cyndaquil.png) ![Litleo](Resources/Pivots/Litleo.png) ![Torchic](Resources/Pivots/Torchic.png) |UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|![Fennekin](Resources/Pivots/Fennekin.png) Litleo ![Pansear](Resources/Pivots/Pansear.png) Torchic |Growlithe ![Larvesta](Resources/Pivots/Larvesta.png) |Charcadet ![Chimchar](Resources/Pivots/Chimchar.png) Houndour Litten |Predsfan|
+|Porofessor|![Fennekin](Resources/Pivots/Fennekin.png) ![Litleo](Resources/Pivots/Litleo.png) ![Pansear](Resources/Pivots/Pansear.png) ![Torchic](Resources/Pivots/Torchic.png) |![Growlithe](Resources/Pivots/Growlithe.png) ![Larvesta](Resources/Pivots/Larvesta.png) |![Charcadet](Resources/Pivots/Charcadet.png) ![Chimchar](Resources/Pivots/Chimchar.png) ![Houndour](Resources/Pivots/Houndour.png) ![Litten](Resources/Pivots/Litten.png) |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
@@ -149,12 +149,12 @@ WORK IN PROGRESS!
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|Dratini Jangmo-O Tyrunt |Axew Dreepy|Applin Bagon Gible|UceyChimchar|
+|ZogaOak|![Dratini](Resources/Pivots/Dratini.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png) ![Tyrunt](Resources/Pivots/Tyrunt.png) |![Axew](Resources/Pivots/Axew.png) ![Dreepy](Resources/Pivots/Dreepy.png)|![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Gible](Resources/Pivots/Gible.png)|UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|Applin Bagon Tyrunt |![Gible](Resources/Pivots/Gible.png) Jangmo-O |Axew Dratini Dreepy |Predsfan|
+|Porofessor|![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Tyrunt](Resources/Pivots/Tyrunt.png) |![Gible](Resources/Pivots/Gible.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png) |![Axew](Resources/Pivots/Axew.png) ![Dratini](Resources/Pivots/Dratini.png) ![Dreepy](Resources/Pivots/Dreepy.png) |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
