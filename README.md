@@ -1,6 +1,6 @@
 # Roguemon Rivals Tournament Series
 
-### [ROUND STRUCTURE](#ROUND-STRUCTURE) | [PIVOTING GUIDELINES](#Pivoting-Guidelines) | [PARTICIPANTS](#Participants) | [ALPHABET DRAFT](#Alphabet-Draft) | [RESOURCES](#Resources) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
+### [ROUND STRUCTURE](#ROUND-STRUCTURE) | [PIVOTING GUIDELINES](#Pivoting-Guidelines) | [PARTICIPANTS](#Participants) | [BRACKET](#BRACKET) | [ALPHABET DRAFT](#Alphabet-Draft) | [RESOURCES](#Resources) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
 
 ---
 
@@ -102,6 +102,12 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 |  | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - TBD |
 |  | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 1 - TBD |
 |  | DaddyoftheCorn | https://www.twitch.tv/daddyofthecorn | Round 1 - TBD |
+
+---
+
+<h1 align="center">BRACKET</h1>
+
+![Round 1 Bracket](Resources/Winter-Tournie-Bracket-Round-1.png)
 
 ---
 
