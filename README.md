@@ -153,7 +153,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 |iAmSlammer|---|---|---|PixelMaster|
 |Porofessor|<p align="center">![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Tyrunt](Resources/Pivots/Tyrunt.png)</p> |<p align="center">![Gible](Resources/Pivots/Gible.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png)</p> |<p align="center">![Axew](Resources/Pivots/Axew.png) ![Dratini](Resources/Pivots/Dratini.png) ![Dreepy](Resources/Pivots/Dreepy.png)</p> |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
-|ShaolinSpunk|---|---|---|Finnifin747|
+|ShaolinSpunk|<p align="center">![Bagon](Resources/Pivots/Bagon.png) ![Dratini](Resources/Pivots/Dratini.png) ![Tyrunt](Resources/Pivots/Tyrunt.png)</p> |<p align="center">![Gible](Resources/Pivots/Gible.png) ![Noibat](Resources/Pivots/Noibat.png)</p> |<p align="center">![Frigibax](Resources/Pivots/Frigibax.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png) ![Axew](Resources/Pivots/Axew.png)</p>|Finnifin747|
 
 </details>
 
