@@ -24,7 +24,7 @@ Once players have drafted all of their Pokemon, the Running phase begins. This m
 [👉 Click here to view the Pokemon Rankings](https://docs.google.com/spreadsheets/d/1tiS6qI93a8kvGv_6gLdTAVDttsU-ztQQgtx_xshBj_c/edit)
 
 **Draft Tracker:**  
-[👉 Click here to view the Draft Tracker](https://docs.google.com/spreadsheets/d/1G84KmMYkxTKnaFUwMx1JH2rcPc4vGFONExM2cCNFI4g/edit?usp=sharing)
+[👉 Click here to view the Draft Tracker](https://docs.google.com/spreadsheets/d/1w-vIBTVtaFTtdZ5n6jUGxO-SaW-L_5P-QvtL8cfddMo/edit?gid=1594516166#gid=1594516166)
 
 ---
 
@@ -96,7 +96,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 |  | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - TBD |
 |  | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - TBD |
 |  | Mason | https://www.twitch.tv/mason_smw | Round 1 - TBD |
-|  | Da-RellGaming | https://www.twitch.tv/da_rellgaming | Round 1 - TBD |
+|  | Da-RellGaming | https://www.twitch.tv/da_rellgaming or https://www.youtube.com/@Da-RellGaming | Round 1 - TBD |
 |  | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 1 - TBD |
 |  | Thee Worme | https://www.twitch.tv/thee_worme | Round 1 - TBD |
 |  | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - TBD |
@@ -118,7 +118,7 @@ The rest of the Roguemon Rivals rules apply after the drafting phase. This shoul
 <details>
 <summary><strong>📁 Resources</strong></summary>
 
-- 📝 [Draft Template Sheet](https://docs.google.com/spreadsheets/d/1G84KmMYkxTKnaFUwMx1JH2rcPc4vGFONExM2cCNFI4g/edit?usp=sharing)
+- 📝 [Draft Template Sheet](https://docs.google.com/spreadsheets/d/1w-vIBTVtaFTtdZ5n6jUGxO-SaW-L_5P-QvtL8cfddMo/edit?gid=1594516166#gid=1594516166)
 - 📈 [Scoreboard Template (Make a Copy)](https://docs.google.com/spreadsheets/d/1AbWa4WPAQiyzlvI2I5l_m0M3YqE-ZPL32wDu0jRsoHI/edit?gid=0#gid=0)
 - :camera: [Pokemon Sprites (Sugimori and Global Artwork)](https://drive.google.com/drive/folders/1QnI2yFlTVyjq3geyzwmnrr3_cxNlNjzI?usp=sharing)
 
