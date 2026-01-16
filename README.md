@@ -115,12 +115,12 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|---|---|---|UceyChimchar|
+|ZogaOak|BasculinW Mudkip Oshawott Quaxley |Magikarp Panpour Shellder Slowpoke |Froakie Piplup Pyukumuku Squirtle |UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|---|---|---|Predsfan|
+|Porofessor|Mudkip Piplup Surskit Wailmer |BasculinW Magikarp Panpour Slowpoke| Popplio Squirtle Tentacool Wooper |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
@@ -132,12 +132,12 @@ WORK IN PROGRESS!
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|---|---|---|UceyChimchar|
+|ZogaOak|Charmander Fuecoco Houndour | GrowlitheH Growlithe |Chimchar Cyndaquil Litleo Torchic |UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|---|---|---|Predsfan|
+|Porofessor|Fennekin Litleo Pansear Torchic |Growlithe Larvesta |Charcadet Chimchar Houndour Litten |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
@@ -149,12 +149,12 @@ WORK IN PROGRESS!
 WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|---|---|---|UceyChimchar|
+|ZogaOak|Dratini Jangmo-O Tyrunt |Axew Dreepy|Applin Bagon Gible|UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
 |Thee_Worme|---|---|---|AitchKay720|
 |iAmSlammer|---|---|---|PixelMaster|
-|Porofessor|![Applin](Resources/Pivots/Applin.png) |![Gible](Resources/Pivots/Gible.png)|![Axew](Resources/Pivots/Axew.png)|Predsfan|
+|Porofessor|Applin Bagon Tyrunt |Gible Jangmo-O |Axew Dratini Dreepy |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
 |ShaolinSpunk|---|---|---|Finnifin747|
 
