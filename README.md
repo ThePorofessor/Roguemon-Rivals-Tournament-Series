@@ -137,7 +137,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 |iAmSlammer|---|---|---|PixelMaster|
 |Porofessor|<p align="center">![Fennekin](Resources/Pivots/Fennekin.png) ![Litleo](Resources/Pivots/Litleo.png) ![Pansear](Resources/Pivots/Pansear.png) ![Torchic](Resources/Pivots/Torchic.png)</p> |<p align="center">![Growlithe](Resources/Pivots/Growlithe.png) ![Larvesta](Resources/Pivots/Larvesta.png)</p> |<p align="center">![Charcadet](Resources/Pivots/Charcadet.png) ![Chimchar](Resources/Pivots/Chimchar.png) ![Houndour](Resources/Pivots/Houndour.png) ![Litten](Resources/Pivots/Litten.png)</p> |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
-|ShaolinSpunk|---|---|---|Finnifin747|
+|ShaolinSpunk|<p align="center">![Fuecoco](Resources/Pivots/Fuecoco.png) [Larvesta](Resources/Pivots/Larvesta.png) ![Chimchar](Resources/Pivots/Chimchar.png) ![Torchic](Resources/Pivots/Torchic.png)</p> |<p align="center">![Growlithe](Resources/Pivots/Growlithe.png) ![Numel](Resources/Pivots/Numel.png)</p> |<p align="center">![Scorbunny](Resources/Pivots/Scorbunny.png) ![GrowlitheH](Resources/Pivots/GrowlitheH.png) ![Tepig](Resources/Pivots/Tepig.png) ![Litten](Resources/Pivots/Litten.png)</p>|Finnifin747|
 
 </details>
 
