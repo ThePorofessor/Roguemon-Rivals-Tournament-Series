@@ -112,7 +112,6 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 <details>
 <summary><strong>Round 1 Drafts (Water)</strong></summary>
   
-WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
 |ZogaOak|<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Mudkip](Resources/Pivots/Mudkip.png) ![Oshowatt](Resources/Pivots/Oshowatt.png) ![Quaxley](Resources/Pivots/Quaxley.png)</p> |<p align="center">![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Shellder](Resources/Pivots/Shellder.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)</p> |<p align="center">![Froakie](Resources/Pivots/Froakie.png) ![Piplup](Resources/Pivots/Piplup.png) ![Pyukumuku](Resources/Pivots/Pyukumuku.png) ![Squirtle](Resources/Pivots/Squirtle.png)</p> |UceyChimchar|
@@ -129,7 +128,6 @@ WORK IN PROGRESS!
 <details>
 <summary><strong>Round 1 Drafts (Fire)</strong></summary>
   
-WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
 |ZogaOak|<p align="center">![Charmander](Resources/Pivots/Charmander.png) ![Fennekin](Resources/Pivots/Fennekin.png) ![Fuecoco](Resources/Pivots/Fuecoco.png) ![Houndour](Resources/Pivots/Houndour.png)</p> |<p align="center">![GrowlitheH](Resources/Pivots/GrowlitheH.png) ![Growlithe](Resources/Pivots/Growlithe.png)</p> |<p align="center">![Chimchar](Resources/Pivots/Chimchar.png) ![Cyndaquil](Resources/Pivots/Cyndaquil.png) ![Litleo](Resources/Pivots/Litleo.png) ![Torchic](Resources/Pivots/Torchic.png)</p> |UceyChimchar|
@@ -146,7 +144,6 @@ WORK IN PROGRESS!
 <details>
 <summary><strong>Round 1 Drafts (Dragon)</strong></summary>
   
-WORK IN PROGRESS!
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
 |ZogaOak|<p align="center">![Dratini](Resources/Pivots/Dratini.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png) ![Tyrunt](Resources/Pivots/Tyrunt.png)</p> |<p align="center">![Axew](Resources/Pivots/Axew.png) ![Dreepy](Resources/Pivots/Dreepy.png)</p>|<p align="center">![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Gible](Resources/Pivots/Gible.png)</p>|UceyChimchar|
