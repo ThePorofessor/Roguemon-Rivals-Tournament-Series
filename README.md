@@ -175,7 +175,7 @@ Please note that for these stats Pokemon that have different unique forms (Burmy
 | <p align="center">A</p> | <p align="center">10</p> | <p align="center">316.80</p> | <p align="center">190 (Azurill)</p> | <p align="center">401 (Archen)</p> |
 | <p align="center">B</p> | <p align="center">21</p> | <p align="center">287.95</p> | <p align="center">190 (Blipbug)</p> | <p align="center">460 (BasculinW)</p> |
 | <p align="center">C</p> | <p align="center">32</p> | <p align="center">312.88</p> | <p align="center">195 (Caterpie)</p> | <p align="center">410 (Corsola/CorsolaG)</p> |
-| <p align="center">D</p> | <p align="center">19</p> | <p align="center">323.42</p> | <p align="center">265 (Diglett/DiglettA</p>) | <p align="center">415 (Dunsparce)</p> |
+| <p align="center">D</p> | <p align="center">19</p> | <p align="center">323.42</p> | <p align="center">265 (Diglett/DiglettA)</p> | <p align="center">415 (Dunsparce)</p> |
 | <p align="center">E</p> | <p align="center">7</p> | <p align="center">326.14</p> | <p align="center">288 (Ekans)</p> | <p align="center">360 (Elekid)</p> |
 | <p align="center">F</p> | <p align="center">17</p> | <p align="center">313.41</p> | <p align="center">200 (Feebas)</p> | <p align="center">377 (Farfetch'd/Farfetch'dG)</p> |
 | <p align="center">G</p> | <p align="center">23</p> | <p align="center">346.82</p> | <p align="center">290 (Gothita/Greavard)</p> | <p align="center">455 (Giraffarig)</p> |
