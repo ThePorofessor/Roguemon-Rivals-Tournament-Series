@@ -192,6 +192,7 @@ Please note that for these stats Pokemon that have different unique forms (Burmy
 | <p align="center">R</p> | <p align="center">13</p> | <p align="center">280.75</p> | <p align="center">198 (Ralts)</p> | <p align="center">350 (Rufflet)</p> |
 | <p align="center">S</p> | <p align="center">63</p> | <p align="center">303.44</p> | <p align="center">180 (Sunkern)</p> | <p align="center">465 (Stantler)</p> |
 | <p align="center">T</p> | <p align="center">24</p> | <p align="center">304.50</p> | <p align="center">210 (Tyrogue)</p> | <p align="center">435 (Tangela)</p> |
+| <p align="center">U</p> | <p align="center">0</p> | <p align="center">0</p> | <p align="center">0</p> | <p align="center">0</p> |
 | <p align="center">V</p> | <p align="center">9</p> | <p align="center">310.90</p> | <p align="center">260 (Venipede)</p> | <p align="center">370 (Vullaby)</p> |
 | <p align="center">W</p> | <p align="center">14</p> | <p align="center">250.20</p> | <p align="center">175 (Wishiwashi)</p> | <p align="center">400 (Wailmer)</p> |
 | <p align="center">X</p> | <p align="center">0</p> | <p align="center">0</p> | <p align="center">0</p> | <p align="center">0</p> |
