@@ -114,10 +114,10 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
   
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Mudkip](Resources/Pivots/Mudkip.png) ![Oshowatt](Resources/Pivots/Oshowatt.png) ![Quaxley](Resources/Pivots/Quaxley.png)</p> |<p align="center">![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Shellder](Resources/Pivots/Shellder.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)</p> |<p align="center">![Froakie](Resources/Pivots/Froakie.png) ![Piplup](Resources/Pivots/Piplup.png) ![Pyukumuku](Resources/Pivots/Pyukumuku.png) ![Squirtle](Resources/Pivots/Squirtle.png)</p> |UceyChimchar|
+|ZogaOak|<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Mudkip](Resources/Pivots/Mudkip.png) ![Oshowatt](Resources/Pivots/Oshowatt.png) ![Quaxley](Resources/Pivots/Quaxley.png)</p> |<p align="center">![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Shellder](Resources/Pivots/Shellder.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)</p> |<p align="center">![Froakie](Resources/Pivots/Froakie.png) ![Piplup](Resources/Pivots/Piplup.png) ![Pyukumuku](Resources/Pivots/Pyukumuku.png) ![Squirtle](Resources/Pivots/Squirtle.png)</p>|UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
-|Thee_Worme|---|---|---|AitchKay720|
+|Thee_Worme|<p align="center">![Frillish](Resources/Pivots/Frillish.png) ![Froakie](Resources/Pivots/Froakie.png) ![Mudkip](Resources/Pivots/Mudkip.png) ![Piplup](Resources/Pivots/Piplup.png)</p> |<p align="center">![Wishiwashi](Resources/Pivots/Wishiwashi.png) ![Staryu](Resources/Pivots/Staryu.png) ![Spheal](Resources/Pivots/Spheal.png) ![Corphish](Resources/Pivots/Corphish.png)</p> |<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Pyukumuku](Resources/Pivots/Pyukumuku.png) ![Wailmer](Resources/Pivots/Wailmer.png) ![Squirtle](Resources/Pivots/Squirtle.png)</p>|AitchKay720|
 |iAmSlammer|<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Chewtle](Resources/Pivots/Chewtle.png) ![Krabby](Resources/Pivots/Krabby.png) ![Oshowatt](Resources/Pivots/Oshowatt.png)</p> |<p align="center">![Feebas](Resources/Pivots/Feebas.png) ![Magikarp](Resources/Pivots/Magikarp.png) ![Remoraid](Resources/Pivots/Remoraid.png) ![Wishwashi](Resources/Pivots/Wishiwashi.png)</p>|<p align="center">![Clauncher](Resources/Pivots/Clauncher.png) ![Corsola](Resources/Pivots/Corsola.png) ![Piplup](Resources/Pivots/Piplup.png) ![Wailmer](Resources/Pivots/Wailmer.png)</p>|PixelMaster|
 |Porofessor|<p align="center">![Mudkip](Resources/Pivots/Mudkip.png) ![Piplup](Resources/Pivots/Piplup.png) ![Surskit](Resources/Pivots/Surskit.png) ![Wailmer](Resources/Pivots/Wailmer.png)</p> |<p align="center">![BasculinW](Resources/Pivots/BasculinW.png) ![Magikarp](Resources/Pivots/Magikarp.png) ![Panpour](Resources/Pivots/Panpour.png) ![Slowpoke](Resources/Pivots/Slowpoke.png)</p>|<p align="center">![Popplio](Resources/Pivots/Popplio.png) ![Squirtle](Resources/Pivots/Squirtle.png) ![Tentacool](Resources/Pivots/Tentacool.png) ![Wooper](Resources/Pivots/Wooper.png)</p> |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
@@ -133,7 +133,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 |ZogaOak|<p align="center">![Charmander](Resources/Pivots/Charmander.png) ![Fennekin](Resources/Pivots/Fennekin.png) ![Fuecoco](Resources/Pivots/Fuecoco.png) ![Houndour](Resources/Pivots/Houndour.png)</p> |<p align="center">![GrowlitheH](Resources/Pivots/GrowlitheH.png) ![Growlithe](Resources/Pivots/Growlithe.png)</p> |<p align="center">![Chimchar](Resources/Pivots/Chimchar.png) ![Cyndaquil](Resources/Pivots/Cyndaquil.png) ![Litleo](Resources/Pivots/Litleo.png) ![Torchic](Resources/Pivots/Torchic.png)</p> |UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
-|Thee_Worme|---|---|---|AitchKay720|
+|Thee_Worme|<p align="center">![Cyndaquil](Resources/Pivots/Cyndaquil.png) ![Tepig](Resources/Pivots/Tepig.png) ![Magby](Resources/Pivots/Magby.png) ![Houndour](Resources/Pivots/Houndour.png)</p> |<p align="center">![Litwick](Resources/Pivots/Litwick.png) ![Vulpix](Resources/Pivots/Vulpix.png)</p> |<p align="center">![Chimchar](Resources/Pivots/Chimchar.png) ![Growlithe](Resources/Pivots/Growlithe.png) ![GrowlitheH](Resources/Pivots/GrowlitheH.png) ![Larvesta](Resources/Pivots/Larvesta.png)</p>|AitchKay720|
 |iAmSlammer|<p align="center">![Growlithe](Resources/Pivots/Growlithe.png) ![Cyndaquil](Resources/Pivots/Cyndaquil.png) ![Charcadet](Resources/Pivots/Charcadet.png) ![Houndour](Resources/Pivots/Houndour.png)</p> |<p align="center">![GrowlitheH](Resources/Pivots/GrowlitheH.png) ![Numel](Resources/Pivots/Numel.png)</p> |<p align="center">![Ponyta](Resources/Pivots/Ponyta.png) ![Larvesta](Resources/Pivots/Larvesta.png) ![Vulpix](Resources/Pivots/Vulpix.png) ![Litten](Resources/Pivots/Litten.png)</p>|PixelMaster|
 |Porofessor|<p align="center">![Fennekin](Resources/Pivots/Fennekin.png) ![Litleo](Resources/Pivots/Litleo.png) ![Pansear](Resources/Pivots/Pansear.png) ![Torchic](Resources/Pivots/Torchic.png)</p> |<p align="center">![Growlithe](Resources/Pivots/Growlithe.png) ![Larvesta](Resources/Pivots/Larvesta.png)</p> |<p align="center">![Charcadet](Resources/Pivots/Charcadet.png) ![Chimchar](Resources/Pivots/Chimchar.png) ![Houndour](Resources/Pivots/Houndour.png) ![Litten](Resources/Pivots/Litten.png)</p> |Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
@@ -149,7 +149,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 |ZogaOak|<p align="center">![Dratini](Resources/Pivots/Dratini.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png) ![Tyrunt](Resources/Pivots/Tyrunt.png)</p> |<p align="center">![Axew](Resources/Pivots/Axew.png) ![Dreepy](Resources/Pivots/Dreepy.png)</p>|<p align="center">![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Gible](Resources/Pivots/Gible.png)</p>|UceyChimchar|
 |Da-RellGaming|---|---|---|AmazingSpam|
 |QPMarcel|---|---|---|Redmune|
-|Thee_Worme|---|---|---|AitchKay720|
+|Thee_Worme|<p align="center">![Bagon](Resources/Pivots/Bagon.png) ![Tyrunt](Resources/Pivots/Tyrunt.png) ![Axew](Resources/Pivots/Axew.png)</p> |<p align="center">![Applin](Resources/Pivots/Applin.png) ![Dreepy](Resources/Pivots/Dreepy.png)</p>|<p align="center">![Dratini](Resources/Pivots/Dratini.png) ![Gible](Resources/Pivots/Gible.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png)</p>|AitchKay720|
 |iAmSlammer|<p align="center">![Bagon](Resources/Pivots/Bagon.png) ![Dratini](Resources/Pivots/Dratini.png) ![Gible](Resources/Pivots/Gible.png)</p> |<p align="center">![Axew](Resources/Pivots/Axew.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png)</p> |<p align="center">![Deino](Resources/Pivots/Deino.png) ![Goomy](Resources/Pivots/Goomy.png) ![Frigibax](Resources/Pivots/Frigibax.png)</p>|PixelMaster|
 |Porofessor|<p align="center">![Applin](Resources/Pivots/Applin.png) ![Bagon](Resources/Pivots/Bagon.png) ![Tyrunt](Resources/Pivots/Tyrunt.png)</p> |<p align="center">![Gible](Resources/Pivots/Gible.png) ![Jangmo-O](Resources/Pivots/Jangmo-O.png)</p> |<p align="center">![Axew](Resources/Pivots/Axew.png) ![Dratini](Resources/Pivots/Dratini.png) ![Dreepy](Resources/Pivots/Dreepy.png)</p>|Predsfan|
 |DaddyoftheCorn|---|---|---|Mason_SMW|
@@ -240,6 +240,11 @@ Unfortunately, that is a seed reset.
 <details>
 <summary><strong> What happens if you only have 1 favorite but it has Pure/Huge Power? </strong></summary>
 Don't reset the seed! Play as if no favorites are available and chose any Pokemon that was not drafted by either player.
+ </details>
+
+<details>
+<summary><strong> What happens if I my lab pokemon has Pure/Huge Power and I only have physical moves? </strong></summary>
+Thats a seed reset, but you will be refunded the seed. Please note this doesn't apply to type resistances.
  </details>
 
 <details>
