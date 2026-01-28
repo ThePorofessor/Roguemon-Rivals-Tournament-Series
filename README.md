@@ -20,7 +20,7 @@ Once players have drafted all of their Pokemon, the Running phase begins. This m
 
 ![Drafting Order Reference](Resources/DraftingOrder.png)
 
-#### First Pick
+### First Pick
 Since there hasn't been any gameplay and Rivals doesn't do preliminary seeding, Round 1 pick order is entirely randomized at bracket creation. The player who is located on the top of the matchup in the bracket picks first on types 1 and 3 while the bottom player gains first pick on type 2.
 
 After Round 1, determining first pick is based on the previous rounds longest runs (personal bests or PBs). The player with the longest average PB across the three previous types gains first pick. Please note that only your furthest run in each type will be factored into the average, not all of your seeds. The first pick will be represented by placing the player with the longer average PB in the top portion of the bracket.
@@ -89,24 +89,24 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 ---
 <h1 align="center">PARTICIPANTS</h1>
 
-|  | Name | How To Watch | Tournament Status |
-|:---:|---|---|---|
-|  | ThePorofessor | https://www.twitch.tv/theporofessor | Round 2 - TBD |
-|  | ZogaOak | https://www.twitch.tv/zogaoak | Round 2 - TBD |
-|  | QPMarcel | https://www.twitch.tv/qp_marcel | Round 2 - TBD |
-|  | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 2 - TBD |
-|  | Mason | https://www.twitch.tv/mason_smw | Round 2 - TBD |
-|  | Da-RellGaming | https://www.twitch.tv/da_rellgaming or https://www.youtube.com/@Da-RellGaming | Round 2 - TBD |
-|  | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 2 - TBD |
-|  | Thee Worme | https://www.twitch.tv/thee_worme | Round 2 - TBD |
-|  | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - Eliminated |
-|  | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - Eliminated |
-|  | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - Eliminated |
-|  | AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - Eliminated |
-|  | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - Eliminated |
-|  | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - Eliminated |
-|  | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - Eliminated |
-|  | DaddyoftheCorn | https://www.twitch.tv/daddyofthecorn | Round 1 - Eliminated |
+| Name | How To Watch | Tournament Status |
+|:---:|---|---|
+| ThePorofessor | https://www.twitch.tv/theporofessor | Round 2 - TBD |
+| ZogaOak | https://www.twitch.tv/zogaoak | Round 2 - TBD |
+| QPMarcel | https://www.twitch.tv/qp_marcel | Round 2 - TBD |
+| Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 2 - TBD |
+| Mason | https://www.twitch.tv/mason_smw | Round 2 - TBD |
+| Da-RellGaming | https://www.twitch.tv/da_rellgaming or https://www.youtube.com/@Da-RellGaming | Round 2 - TBD |
+| iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 2 - TBD |
+| Thee Worme | https://www.twitch.tv/thee_worme | Round 2 - TBD |
+| RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - Eliminated |
+| PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - Eliminated |
+| Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - Eliminated |
+| AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - Eliminated |
+| ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - Eliminated |
+| AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - Eliminated |
+| UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - Eliminated |
+| DaddyoftheCorn | https://www.twitch.tv/daddyofthecorn | Round 1 - Eliminated |
 
 ---
 
