@@ -204,7 +204,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 Since we want all players to have the chance of playing two rounds minimum, we will be hosting a loser bracket after the first round eliminations. This is entirely optional and is open to players not signed up for the tournament (up to 8 players max). An alphabet draft is very similar to the normal Roguemon Rivals experience with the exception of what you are drafting. Rather than selecting specific pokemon, you will be drafting the letters of the alphabet. Any pokemon starting with the letter is runnable!
 
 ### Round Structure
-The alphabet draft will consist of 8 players in a free for all format battling it out across 90 Typeless seeds. Players will draft favorite letters that they are allowed to run and there will be no universal picks. Since all the letters will be drafted, players will only be allowed to run Pokemon starting with favorite letters! After 2 weeks players will be ranked based on their furthest PB.
+The alphabet draft will consist of 8 players in a free for all format battling it out across 100 Typeless seeds. Players will draft favorite letters that they are allowed to run and there will be no universal picks. Since all the letters will be drafted, players will only be allowed to run Pokemon starting with favorite letters! After 2 weeks players will be ranked based on their furthest PB.
 
 ### Drafting Rules
 All players will get the chance to draft 6 favorite letters. To ensure fairness, pick order will be randomized and conducted through a snake style draft (1-2-3-4-5-6-7-8-8-7-6-5-4-3-2-1).
