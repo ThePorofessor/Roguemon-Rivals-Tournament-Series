@@ -20,6 +20,11 @@ Once players have drafted all of their Pokemon, the Running phase begins. This m
 
 ![Drafting Order Reference](Resources/DraftingOrder.png)
 
+#### First Pick
+Since there hasn't been any gameplay and Rivals doesn't do preliminary seeding, Round 1 pick order is entirely randomized at bracket creation. The player who is located on the top of the matchup in the bracket picks first on types 1 and 3 while the bottom player gains first pick on type 2.
+
+After Round 1, determining first pick is based on the previous rounds longest runs (personal bests or PBs). The player with the longest average PB across the three previous types gains first pick. Please note that only your furthest run in each type will be factored into the average, not all of your seeds. The first pick will be represented by placing the player with the longer average PB in the top portion of the bracket.
+
 **Pokemon Rankings by Zoga: (Good for pivot data opinions may vary)**  
 [👉 Click here to view the Pokemon Rankings](https://docs.google.com/spreadsheets/d/1tiS6qI93a8kvGv_6gLdTAVDttsU-ztQQgtx_xshBj_c/edit)
 
@@ -86,28 +91,28 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 |  | Name | How To Watch | Tournament Status |
 |:---:|---|---|---|
-|  | ThePorofessor | https://www.twitch.tv/theporofessor | Round 1 - TBD |
-|  | ZogaOak | https://www.twitch.tv/zogaoak | Round 1 - TBD |
-|  | QPMarcel | https://www.twitch.tv/qp_marcel | Round 1 - TBD |
-|  | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - TBD |
-|  | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - TBD |
-|  | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - TBD |
-|  | AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - TBD |
-|  | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - TBD |
-|  | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - TBD |
-|  | Mason | https://www.twitch.tv/mason_smw | Round 1 - TBD |
-|  | Da-RellGaming | https://www.twitch.tv/da_rellgaming or https://www.youtube.com/@Da-RellGaming | Round 1 - TBD |
-|  | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 1 - TBD |
-|  | Thee Worme | https://www.twitch.tv/thee_worme | Round 1 - TBD |
-|  | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - TBD |
-|  | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 1 - TBD |
-|  | DaddyoftheCorn | https://www.twitch.tv/daddyofthecorn | Round 1 - TBD |
+|  | ThePorofessor | https://www.twitch.tv/theporofessor | Round 2 - TBD |
+|  | ZogaOak | https://www.twitch.tv/zogaoak | Round 2 - TBD |
+|  | QPMarcel | https://www.twitch.tv/qp_marcel | Round 2 - TBD |
+|  | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 2 - TBD |
+|  | Mason | https://www.twitch.tv/mason_smw | Round 2 - TBD |
+|  | Da-RellGaming | https://www.twitch.tv/da_rellgaming or https://www.youtube.com/@Da-RellGaming | Round 2 - TBD |
+|  | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 2 - TBD |
+|  | Thee Worme | https://www.twitch.tv/thee_worme | Round 2 - TBD |
+|  | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - Eliminated |
+|  | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - Eliminated |
+|  | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - Eliminated |
+|  | AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - Eliminated |
+|  | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - Eliminated |
+|  | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - Eliminated |
+|  | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - Eliminated |
+|  | DaddyoftheCorn | https://www.twitch.tv/daddyofthecorn | Round 1 - Eliminated |
 
 ---
 
 <h1 align="center">BRACKET</h1>
 
-![Round 1 Bracket](Resources/Winter-Tournie-Bracket-Round-1.png)
+![Round 2 Bracket](Resources/Winter-Tournie-Bracket-Round-2.png)
 
 <details>
 <summary><strong>Round 1 Drafts (Water)</strong></summary>
@@ -157,14 +162,60 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 </details>
 
+<details>
+<summary><strong>Round 2 Drafts (Ghost)</strong></summary>
+  
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|Da-RellGaming|
+|QPMarcel|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|Thee_Worme|
+|ThePorofessor|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|iAmSlammer|
+|Finnifin747|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|Mason_SMW|
+
+</details>
+
+<details>
+<summary><strong>Round 2 Drafts (Grass)</strong></summary>
+  
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|Da-RellGaming|
+|QPMarcel|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|Thee_Worme|
+|ThePorofessor|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|iAmSlammer|
+|Finnifin747|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|Mason_SMW|
+
+</details>
+
+<details>
+<summary><strong>Round 2 Drafts (Fighting)</strong></summary>
+  
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|Da-RellGaming|
+|QPMarcel|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|Thee_Worme|
+|ThePorofessor|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|iAmSlammer|
+|Finnifin747|<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png)</p> |<p align="center">![Temp](Resources/.png) ![Temp](Resources/.png) ![Temp](Resources/.png)</p>|Mason_SMW|
+
+</details>
+
 ---
 
 <h1 align="center">ALPHABET DRAFT</h1>
-Since we want all players to have the chance of playing two rounds minimum, we will be hosting a loser bracket after the first round eliminations. This is entirely optional and is open to players not signed up for the tournament (up to 10 players max). An alphabet draft is very similar to the normal Roguemon Rivals experience with the exception of what you are drafting. Rather than selecting specific pokemon, you will be drafting the letters of the alphabet. Any pokemon starting with the letter is runnable! The alphabet draft will consist of 45 Typeless seeds (increased to assist with dead seeds). During the drafting phase players will vote on their top 3 universal letters. The votes will be tallied and the top 5 letters will be drafted as universal letters that any player can use to pivot. Afterwards, players will be randomized and draft in a snake style draft of the remaining letters of the alphabet.
+Since we want all players to have the chance of playing two rounds minimum, we will be hosting a loser bracket after the first round eliminations. This is entirely optional and is open to players not signed up for the tournament (up to 8 players max). An alphabet draft is very similar to the normal Roguemon Rivals experience with the exception of what you are drafting. Rather than selecting specific pokemon, you will be drafting the letters of the alphabet. Any pokemon starting with the letter is runnable!
+
+### Round Structure
+The alphabet draft will consist of 8 players in a free for all format battling it out across 90 Typeless seeds. Players will draft favorite letters that they are allowed to run and there will be no universal picks. Since all the letters will be drafted, players will only be allowed to run Pokemon starting with favorite letters! After 2 weeks players will be ranked based on their furthest PB.
+
+### Drafting Rules
+All players will get the chance to draft 6 favorite letters. To ensure fairness, pick order will be randomized and conducted through a snake style draft (1-2-3-4-5-6-7-8-8-7-6-5-4-3-2-1).
+Please note that some letters are stronger than others. This could mean having a larger pivot pool (enabling more runs) and higher average BST (more likely to get a better PB). Therefore, make sure you draft wisely or you might be ball locked frequently.
 
 **Please note that if there are no runnable Pokemon (no letters match your draft) it is a dead seed which counts towards your total seeds. We have increased the available seeds to minimize this altering the final scores.**
 
-The rest of the Roguemon Rivals rules apply after the drafting phase. This should be chaotic and fun. Please remember that this is a friendly competition!
+### Pivoting Rules
+While in the lab ALL Pokemon can be used to get out. There are no limits to what you pick off of the table. However, once you are out of the lab, you may only run a Pokemon starting with your favorite letter. This is not always guaranteed based on how you drafted. If there are no favorites, then the seed is reset and counted against you.
+
+Let the chaos begin!
 
 <details>
 <summary><strong>Letter Statistics (Amount of Pokemon)</strong></summary>
