@@ -213,7 +213,7 @@ Please note that some letters are stronger than others. This could mean having a
 **Please note that if there are no runnable Pokemon (no letters match your draft) it is a dead seed which counts towards your total seeds. We have increased the available seeds to minimize this altering the final scores.**
 
 ### Pivoting Rules
-While in the lab ALL Pokemon can be used to get out. There are no limits to what you pick off of the table. However, once you are out of the lab, you may only run a Pokemon starting with your favorite letter. This is not always guaranteed based on how you drafted. If there are no favorites, then the seed is reset and counted against you.
+While in the lab, you must run a favorite if available. If there are no favorites, ANY Pokemon can be used to get out. However, once you are out of the lab, you may only run a Pokemon starting with your favorite letter. This is not always guaranteed based on how you drafted. If there are no favorites, then the seed is reset and refunded (doesn't count against your total 100 seeds).
 
 Let the chaos begin!
 
