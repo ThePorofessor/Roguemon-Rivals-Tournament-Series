@@ -268,7 +268,7 @@ Please note that for these stats Pokemon that have different unique forms (Burmy
 | <p align="center">Ucey Chimchar</p> | <p align="center">C B R N Z W</p> | <p align="center">93</p> | <p align="center">289</p> | <p align="center">Lab</p> |
 </details>
 
-
+[Alphabet Draft Tracker](https://docs.google.com/spreadsheets/d/1G_jYwBDQdLMxqInXeKcCxVFzn8Cc33e3/edit?usp=sharing&ouid=101271908362411044812&rtpof=true&sd=true)
 
 ---
 <h1 align="center">RESOURCES</h1>
