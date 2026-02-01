@@ -96,13 +96,13 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 | QPMarcel | https://www.twitch.tv/qp_marcel | Round 2 - TBD |
 | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 2 - TBD |
 | Mason | https://www.twitch.tv/mason_smw | Round 2 - TBD |
-| Da-RellGaming | https://www.twitch.tv/da_rellgaming or https://www.youtube.com/@Da-RellGaming | Round 2 - TBD |
+| AmazingSpam | https://www.twitch.tv/amazingspam | Round 2 - TBD |
 | iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 2 - TBD |
 | Thee Worme | https://www.twitch.tv/thee_worme | Round 2 - TBD |
 | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - Eliminated |
 | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - Eliminated |
 | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - Eliminated |
-| AmazingSpam | https://www.twitch.tv/amazingspam | Round 1 - Eliminated |
+| Da-RellGaming | https://www.twitch.tv/da_rellgaming or https://www.youtube.com/@Da-RellGaming | Round 1 - Eliminated |
 | ShaolinSpunk | https://www.twitch.tv/shaolinspunk | Round 1 - Eliminated |
 | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - Eliminated |
 | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - Eliminated |
