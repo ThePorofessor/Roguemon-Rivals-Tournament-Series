@@ -113,7 +113,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 <h1 align="center">BRACKET</h1>
 
-![Round 2 Bracket](Resources/Winter-Tournie-Bracket-Round-2.png)
+![Round 2 Bracket](Resources/Bracket-Round-2.png)
 
 <details>
 <summary><strong>Round 1 Drafts (Water)</strong></summary>
