@@ -107,6 +107,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 | AitchKay720 | https://www.twitch.tv/aitchkay720 | Round 1 - Eliminated |
 | UceyChimchar | https://www.twitch.tv/UceyChimchar | Round 1 - Eliminated |
 | DaddyoftheCorn | https://www.twitch.tv/daddyofthecorn | Round 1 - Eliminated |
+| Reilnur | https://www.twitch.tv/reilnur | Alphabet Draft Only |
 
 ---
 
@@ -250,6 +251,23 @@ Please note that for these stats Pokemon that have different unique forms (Burmy
 | <p align="center">Y</p> | <p align="center">5</p> | <p align="center">303.80</p> | <p align="center">253 (Yungoos)</p> | <p align="center">390 (Yanma)</p> |
 | <p align="center">Z</p> | <p align="center">5</p> | <p align="center">277.00</p> | <p align="center">240 (Zigzagoon/ZigzagoonG)</p> | <p align="center">460 (Zorua/ZoruaH)</p> |
 </details>
+
+<details>
+<summary><strong>Winter 2026 Lower Bracket Drafts</strong></summary>
+Please note that for these stats Pokemon that have different unique forms (Burmy, Pumpkaboo, etc.) are only counted once. Additionally, everything was calculated through ChatGPT so there might be errors.
+  
+| Player | Favorite Letters | Number of Available Pivots | Average BST of Favorites | Current PB |
+|:---:|---|---|---|---|
+| <p align="center">PixelMaster</p> | <p align="center">W I T D E V</p> | <p align="center">76</p> | <p align="center">300</p> | <p align="center">Lab</p> |
+| <p align="center">Reilnur</p> | <p align="center">S M A N K Y</p> | <p align="center">121</p> | <p align="center">307</p> | <p align="center">Lab</p> |
+| <p align="center">AitchKay</p> | <p align="center">S D L O K J</p> | <p align="center">107</p> | <p align="center">312</p> | <p align="center">Lab</p> |
+| <p align="center">RedMune</p> | <p align="center">P M Q R E J</p> | <p align="center">85</p> | <p align="center">316</p> | <p align="center">Lab</p> |
+| <p align="center">Predsfan</p> | <p align="center">P G A F V H</p> | <p align="center">100</p> | <p align="center">320</p> | <p align="center">Lab</p> |
+| <p align="center">Shaolin Spunk</p> | <p align="center">T B Q L Y H</p> | <p align="center">74</p> | <p align="center">305</p> | <p align="center">Lab</p> |
+| <p align="center">DaddyoftheCorn</p> | <p align="center">G C F O Z I</p> | <p align="center">84</p> | <p align="center">319</p> | <p align="center">Lab</p> |
+| <p align="center">Ucey Chimchar</p> | <p align="center">C B R N Z W</p> | <p align="center">93</p> | <p align="center">289</p> | <p align="center">Lab</p> |
+</details>
+
 
 
 ---
