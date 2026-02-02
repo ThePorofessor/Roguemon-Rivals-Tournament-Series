@@ -263,7 +263,7 @@ Please note that for these stats Pokemon that have different unique forms (Burmy
 | <p align="center">AitchKay</p> | <p align="center">S D L O K J</p> | <p align="center">107</p> | <p align="center">312</p> | <p align="center">Lab</p> |
 | <p align="center">RedMune</p> | <p align="center">P M Q R E J</p> | <p align="center">85</p> | <p align="center">314</p> | <p align="center">Lab</p> |
 | <p align="center">Predsfan</p> | <p align="center">P G Q F V H</p> | <p align="center">100</p> | <p align="center">323</p> | <p align="center">Bridge Rival</p> |
-| <p align="center">Shaolin Spunk</p> | <p align="center">T B A L Y H</p> | <p align="center">81</p> | <p align="center">303</p> | <p align="center">Lab</p> |
+| <p align="center">Shaolin Spunk</p> | <p align="center">T B A L Y H</p> | <p align="center">81</p> | <p align="center">303</p> | <p align="center">Mt. Moon</p> |
 | <p align="center">DaddyoftheCorn</p> | <p align="center">G C F O Z I</p> | <p align="center">84</p> | <p align="center">319</p> | <p align="center">Lab</p> |
 | <p align="center">Ucey Chimchar</p> | <p align="center">C B R N Z W</p> | <p align="center">93</p> | <p align="center">289</p> | <p align="center">Lab</p> |
 </details>
