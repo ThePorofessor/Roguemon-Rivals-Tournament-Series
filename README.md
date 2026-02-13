@@ -91,14 +91,14 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 | Name | How To Watch | Tournament Status |
 |:---:|---|---|
-| ThePorofessor | https://www.twitch.tv/theporofessor | Round 2 - TBD |
-| ZogaOak | https://www.twitch.tv/zogaoak | Round 2 - TBD |
-| QPMarcel | https://www.twitch.tv/qp_marcel | Round 2 - TBD |
-| Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 2 - TBD |
-| Mason | https://www.twitch.tv/mason_smw | Round 2 - TBD |
-| AmazingSpam | https://www.twitch.tv/amazingspam | Round 2 - TBD |
-| iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 2 - TBD |
-| Thee Worme | https://www.twitch.tv/thee_worme | Round 2 - TBD |
+| ThePorofessor | https://www.twitch.tv/theporofessor | Round 3 - TBD |
+| ZogaOak | https://www.twitch.tv/zogaoak | Round 3 - TBD |
+| Mason | https://www.twitch.tv/mason_smw | Round 3 - TBD |
+| Thee Worme | https://www.twitch.tv/thee_worme | Round 3 - TBD |
+| QPMarcel | https://www.twitch.tv/qp_marcel | Round 2 - Eliminated |
+| Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 2 - Eliminated |
+| AmazingSpam | https://www.twitch.tv/amazingspam | Round 2 - Eliminated |
+| iAmSlammer | https://www.twitch.tv/iAmSlammer | Round 2 - Eliminated |
 | RedMuneTV | https://www.twitch.tv/redmunetv | Round 1 - Eliminated |
 | PixelMaster113 | https://www.twitch.tv/pixelmaster113 | Round 1 - Eliminated |
 | Predsfan98 | https://twitch.tv/predsfan98 | Round 1 - Eliminated |
@@ -113,7 +113,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 <h1 align="center">BRACKET</h1>
 
-![Round 2 Bracket](Resources/Bracket-Round-2.png)
+![Round 2 Bracket](Resources/Bracket-Round-3.png)
 
 <details>
 <summary><strong>Round 1 Drafts (Water)</strong></summary>
@@ -260,12 +260,12 @@ Please note that for these stats Pokemon that have different unique forms (Burmy
 |:---:|---|---|---|---|
 | <p align="center">PixelMaster</p> | <p align="center">W I T D E V</p> | <p align="center">76</p> | <p align="center">300</p> | <p align="center">Mt. Moon</p> |
 | <p align="center">Reilnur</p> | <p align="center">S M A N K Y</p> | <p align="center">121</p> | <p align="center">307</p> | <p align="center">Surge</p> |
-| <p align="center">AitchKay</p> | <p align="center">S D L O K J</p> | <p align="center">107</p> | <p align="center">312</p> | <p align="center">Lab</p> |
+| <p align="center">AitchKay</p> | <p align="center">S D L O K J</p> | <p align="center">107</p> | <p align="center">312</p> | <p align="center">Route6&11</p> |
 | <p align="center">RedMune</p> | <p align="center">P M Q R E J</p> | <p align="center">85</p> | <p align="center">314</p> | <p align="center">Lab</p> |
-| <p align="center">Predsfan</p> | <p align="center">P G Q F V H</p> | <p align="center">100</p> | <p align="center">323</p> | <p align="center">Bridge Rival</p> |
-| <p align="center">Shaolin Spunk</p> | <p align="center">T B A L Y H</p> | <p align="center">81</p> | <p align="center">303</p> | <p align="center">Mt. Moon</p> |
+| <p align="center">Predsfan</p> | <p align="center">P G Q F V H</p> | <p align="center">100</p> | <p align="center">323</p> | <p align="center">Route 8</p> |
+| <p align="center">Shaolin Spunk</p> | <p align="center">T B A L Y H</p> | <p align="center">81</p> | <p align="center">303</p> | <p align="center">Route 6&11</p> |
 | <p align="center">DaddyoftheCorn</p> | <p align="center">G C F O Z I</p> | <p align="center">84</p> | <p align="center">319</p> | <p align="center">Lab</p> |
-| <p align="center">Ucey Chimchar</p> | <p align="center">C B R N Z W</p> | <p align="center">93</p> | <p align="center">289</p> | <p align="center">Lab</p> |
+| <p align="center">Ucey Chimchar</p> | <p align="center">C B R N Z W</p> | <p align="center">93</p> | <p align="center">289</p> | <p align="center">Route 24&25</p> |
 </details>
 
 [Alphabet Draft Tracker](https://docs.google.com/spreadsheets/d/1G_jYwBDQdLMxqInXeKcCxVFzn8Cc33e3/edit?usp=sharing&ouid=101271908362411044812&rtpof=true&sd=true)
