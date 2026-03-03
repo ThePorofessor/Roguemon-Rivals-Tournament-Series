@@ -91,10 +91,10 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 | Name | How To Watch | Tournament Status |
 |:---:|---|---|
-| ThePorofessor | https://www.twitch.tv/theporofessor | Round 3 - TBD |
-| ZogaOak | https://www.twitch.tv/zogaoak | Round 3 - TBD |
-| Mason | https://www.twitch.tv/mason_smw | Round 3 - TBD |
-| Thee Worme | https://www.twitch.tv/thee_worme | Round 3 - TBD |
+| ZogaOak | https://www.twitch.tv/zogaoak | Finals - TBD |
+| Mason | https://www.twitch.tv/mason_smw | Finals - TBD |
+| ThePorofessor | https://www.twitch.tv/theporofessor | Round 3 - Eliminated |
+| Thee Worme | https://www.twitch.tv/thee_worme | Round 3 - Eliminated |
 | QPMarcel | https://www.twitch.tv/qp_marcel | Round 2 - Eliminated |
 | Finnifinn747 | https://www.twitch.tv/finnifinn747 | Round 2 - Eliminated |
 | AmazingSpam | https://www.twitch.tv/amazingspam | Round 2 - Eliminated |
