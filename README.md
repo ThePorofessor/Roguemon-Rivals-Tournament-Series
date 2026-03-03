@@ -224,7 +224,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
   
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|<p align="center">![Beldum](Resources/Beldum.png) ![Honedge](Resources/Honedge.png) ![Tinkatink](Resources/Tinkatink.png)</p> |<p align="center">![Mawhile](Resources/Mawhile.png) ![Meltan](Resources/Meltan.png)</p> |<p align="center">![Bronzor](Resources/Bronzor.png)![Cufant](Resources/Cufant.png) ![Magnemite](Resources/Magnemite.png)</p>|ThePorofessor|
+|ZogaOak|<p align="center">![Beldum](Resources/Beldum.png) ![Honedge](Resources/Honedge.png) ![Tinkatink](Resources/Tinkatink.png)</p> |<p align="center">![Mawile](Resources/Mawile.png) ![Meltan](Resources/Meltan.png)</p> |<p align="center">![Bronzor](Resources/Bronzor.png)![Cufant](Resources/Cufant.png) ![Magnemite](Resources/Magnemite.png)</p>|ThePorofessor|
 |ThePorofessor|<p align="center">![Cufant](Resources/Cufant.png) ![Honedge](Resources/Honedge.png) ![Tinkatink](Resources/Tinkatink.png)</p> |<p align="center">![Beldum](Resources/Beldum.png) ![Meltan](Resources/Meltan.png)</p> |<p align="center">![Bronzor](Resources/Bronzor.png)![Mawile](Resources/Mawile.png) ![Shieldon](Resources/Shieldon.png)</p>|Mason_SMW|
 
 </details>
