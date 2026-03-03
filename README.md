@@ -113,7 +113,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 
 <h1 align="center">BRACKET</h1>
 
-![Round 2 Bracket](Resources/Bracket-Round-3.png)
+![Round 2 Bracket](Resources/Bracket-Round-4.png)
 
 <details>
 <summary><strong>Round 1 Drafts (Water)</strong></summary>
@@ -196,6 +196,63 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
 |QPMarcel|<p align="center">![Pancham](Resources/Pancham.png) ![Riolu](Resources/Riolu.png) ![SneasalH](Resources/SneasalH.png)</p> |<p align="center">![Scraggy](Resources/Scraggy.png) ![Stufful](Resources/Stufful.png)</p> |<p align="center">![FarfetchdG](Resources/FarfetchdG.png) ![Kubfu](Resources/Kubfu.png) ![Meinfoo](Resources/Meinfoo.png)</p>|Thee_Worme|
 |ThePorofessor|<p align="center">![SneasalH](Resources/SneasalH.png) ![Pancham](Resources/Pancham.png) ![Machop](Resources/Machop.png)</p> |<p align="center">![FarfetchdG](Resources/FarfetchdG.png) ![Meinfoo](Resources/Meinfoo.png)</p> |<p align="center">![Timburr](Resources/Timburr.png) ![Stufful](Resources/Stufful.png) ![Meditite](Resources/Meditite.png)</p>|iAmSlammer|
 |Finnifin747|<p align="center">![Meinfoo](Resources/Meinfoo.png) ![Timburr](Resources/Timburr.png) ![Pancham](Resources/Pancham.png)</p> |<p align="center">![FarfetchdG](Resources/FarfetchdG.png) ![SneasalH](Resources/SneasalH.png)</p> |<p align="center">![Machop](Resources/Machop.png) ![Meditite](Resources/Meditite.png) ![Stufful](Resources/Stufful.png)</p>|Mason_SMW|
+
+</details>
+
+<details>
+<summary><strong>Round 3 Drafts (Psychic)</strong></summary>
+  
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|<p align="center">![Abra](Resources/Abra.png) ![Chingling](Resources/Chingling.png) ![Girafarig](Resources/Girafarig.png)![MimeJr](Resources/MimeJr.png)</p> |<p align="center">![Beldum](Resources/Beldum.png) ![Cosmog](Resources/Cosmog.png) ![Unown](Resources/Unown.png) ![Wynaut](Resources/Wynaut.png)</p> |<p align="center">![Bronzor](Resources/Bronzor.png)![PonytaG](Resources/PonytaG.png) ![Slowpoke](Resources/Slowpoke.png) ![SlowpokeG](Resources/SlowpokeG.png)</p>|ThePorofessor|
+|ThePorofessor|<p align="center">![Abra](Resources/Abra.png) ![Chingling](Resources/Chingling.png) ![Espurr](Resources/Espurr.png)![MimeJr](Resources/MimeJr.png)</p> |<p align="center">![Cosmog](Resources/Cosmog.png) ![Girafarig](Resources/Girafarig.png) ![PonytaG](Resources/PonytaG.png) ![Ralts](Resources/Ralts.png)</p> |<p align="center">![Exeggcute](Resources/Exeggcute.png)![SlowpokeG](Resources/SlowpokeG.png) ![Woobat](Resources/Woobat.png) ![Wynaut](Resources/Wynaut.png)</p>|Mason_SMW|
+
+</details>
+
+<details>
+<summary><strong>Round 3 Drafts (Dark)</strong></summary>
+  
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|<p align="center">![Houndour](Resources/Houndour.png) ![MeowthA](Resources/MeowthA.png) ![Sableye](Resources/Sableye.png)![Stunky](Resources/Stunky.png)</p> |<p align="center">![QwilfishH](Resources/QwilfishH.png) ![Zorua](Resources/Zorua.png)</p> |<p align="center">![Carvanha](Resources/Carvanha.png)![Maschiff](Resources/Maschiff.png) ![Murkrow](Resources/Murkrow.png) ![Sneasal](Resources/Sneasal.png)</p>|ThePorofessor|
+|ThePorofessor|<p align="center">![Maschiff](Resources/Maschiff.png) ![Murkrow](Resources/Murkrow.png) ![Poochyena](Resources/Poochyena.png)![Zorua](Resources/Zorua.png)</p> |<p align="center">![Deino](Resources/Deino.png) ![MeowthA](Resources/MeowthA.png)</p> |<p align="center">![Houndour](Resources/Houndour.png)![RattataA](Resources/RattataA.png) ![Sableye](Resources/Sableye.png) ![Stunky](Resources/Stunky.png)</p>|Mason_SMW|
+
+</details>
+
+<details>
+<summary><strong>Round 3 Drafts (Steel)</strong></summary>
+  
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|<p align="center">![Beldum](Resources/Beldum.png) ![Honedge](Resources/Honedge.png) ![Tinkatink](Resources/Tinkatink.png)</p> |<p align="center">![Mawhile](Resources/Mawhile.png) ![Meltan](Resources/Meltan.png)</p> |<p align="center">![Bronzor](Resources/Bronzor.png)![Cufant](Resources/Cufant.png) ![Magnemite](Resources/Magnemite.png)</p>|ThePorofessor|
+|ThePorofessor|<p align="center">![Cufant](Resources/Cufant.png) ![Honedge](Resources/Honedge.png) ![Tinkatink](Resources/Tinkatink.png)</p> |<p align="center">![Beldum](Resources/Beldum.png) ![Meltan](Resources/Meltan.png)</p> |<p align="center">![Bronzor](Resources/Bronzor.png)![Mawile](Resources/Mawile.png) ![Shieldon](Resources/Shieldon.png)</p>|Mason_SMW|
+
+</details>
+
+<details>
+<summary><strong>Round 4 Drafts (Flying)</strong></summary>
+  
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|<p align="center">![Drifloon](Resources/Drifloon.png) ![Gligar](Resources/Gligar.png) ![Pikipek](Resources/Pikipek.png)![Rowlet](Resources/Rowlet.png)</p> |<p align="center">![Archen](Resources/Archen.png) ![Delibird](Resources/Delibird.png) ![Fletchling](Resources/Fletchling.png) ![Starly](Resources/Starly.png)</p> |<p align="center">![Murkrow](Resources/Murkrow.png)![Vullaby](Resources/Vullaby.png) ![Woobat](Resources/Woobat.png) ![Yanma](Resources/Yanma.png)</p>|Mason_SMW|
+
+</details>
+
+<details>
+<summary><strong>Round 4 Drafts (Ice)</strong></summary>
+  
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|<p align="center">![Amaura](Resources/Amaura.png) ![Cetoddle](Resources/Cetoddle.png) ![Frigibax](Resources/Frigibax.png)</p> |<p align="center">![Sneasal](Resources/Sneasal.png) ![Snom](Resources/Snom.png)</p> |<p align="center">![Bergmite](Resources/Bergmite.png)![Cubchoo](Resources/Cubchoo.png) ![Vanillite](Resources/Vanillite.png)</p>|Mason_SMW|
+
+</details>
+
+<details>
+<summary><strong>Round 4 Drafts (Poison)</strong></summary>
+  
+| Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
+|:---:|---|---|---|---|
+|ZogaOak|<p align="center">![Bulbasaur](Resources/Bulbasaur.png) ![Gastly](Resources/Gastly.png) ![GrimerA](Resources/GrimerA.png)![Tentacool](Resources/Tentacool.png)</p> |<p align="center">![NidoranF](Resources/NidoranF.png) ![Poipole](Resources/Poipole.png) ![QwilfishH](Resources/QwilfishH.png) ![Weedle](Resources/Weedle.png)</p> |<p align="center">![Budew](Resources/Budew.png)![Oddish](Resources/Oddish.png) ![SneasalH](Resources/SneasalH.png) ![Stunky](Resources/Stunky.png)</p>|Mason_SMW|
 
 </details>
 
