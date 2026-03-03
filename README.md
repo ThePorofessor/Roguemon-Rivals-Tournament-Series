@@ -252,7 +252,7 @@ Once you have selected your pivot you are ready to start running! Normal A2 Rogu
   
 | Player 1 | Favorite Picks | Universal Picks | Favorite Picks | Player 2 |
 |:---:|---|---|---|---|
-|ZogaOak|<p align="center">![Bulbasaur](Resources/Bulbasaur.png) ![Gastly](Resources/Gastly.png) ![GrimerA](Resources/GrimerA.png)![Tentacool](Resources/Tentacool.png)</p> |<p align="center">![NidoranF](Resources/NidoranF.png) ![Poipole](Resources/Poipole.png) ![QwilfishH](Resources/QwilfishH.png) ![Weedle](Resources/Weedle.png)</p> |<p align="center">![Budew](Resources/Budew.png)![Oddish](Resources/Oddish.png) ![SneasalH](Resources/SneasalH.png) ![Stunky](Resources/Stunky.png)</p>|Mason_SMW|
+|ZogaOak|<p align="center">![Bulbasaur](Resources/Bulbasaur.png) ![Ghastly](Resources/Ghastly.png) ![GrimerA](Resources/GrimerA.png)![Tentacool](Resources/Tentacool.png)</p> |<p align="center">![NidoranF](Resources/NidoranF.png) ![Poipole](Resources/Poipole.png) ![QwilfishH](Resources/QwilfishH.png) ![Weedle](Resources/Weedle.png)</p> |<p align="center">![Budew](Resources/Budew.png)![Oddish](Resources/Oddish.png) ![SneasalH](Resources/SneasalH.png) ![Stunky](Resources/Stunky.png)</p>|Mason_SMW|
 
 </details>
 
