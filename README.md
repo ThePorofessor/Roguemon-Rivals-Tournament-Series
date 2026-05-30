@@ -1,5 +1,4 @@
-# Roguemon Rivals Tournament Series
-# Winter Rumble
+# Roguemon Rivals Tournament Series - Winter Rumble
 
 ### [ROUND STRUCTURE](#ROUND-STRUCTURE) | [PIVOTING GUIDELINES](#Pivoting-Guidelines) | [PARTICIPANTS](#Participants) | [BRACKET](#BRACKET) | [ALPHABET DRAFT](#Alphabet-Draft) | [RESOURCES](#Resources) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
 
